@@ -39,7 +39,7 @@ body {
         text-align: center;
         margin-bottom: 10px;
     }
-    .nav-links a {
+    .nav-links li a {
         display: block;
         color: #00171a;
         text-decoration: none;
