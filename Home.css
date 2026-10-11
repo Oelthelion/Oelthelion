@@ -44,7 +44,7 @@ body {
         color: #00171a;
         text-decoration: none;
         padding: 10px;
-        transition: background-color #088433;
+        transition: background-color 0.3s;
     }
     .nav-links li a:hover {
         background-color: #013975dd;
