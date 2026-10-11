@@ -48,7 +48,7 @@ body {
         transition: background-color 0.3s;
     }
     .nav-links li a:hover {
-        background-color: #013975dd;
+        background-color: #7c3109dd;
     }
     .content {
         margin-left: 40px;
