@@ -1,1 +1,1 @@
-const canvas = document.getElementById('canva 1')
+console.log("Hello, World!");
