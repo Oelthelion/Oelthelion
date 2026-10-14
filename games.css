@@ -59,5 +59,17 @@ body {
     background-color:#010b0c
 }
 body {
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+#canva1 {
+    border: 5px solid rgb(253, 248, 248);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
 }

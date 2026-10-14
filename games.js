@@ -1,4 +1,11 @@
-canvas
+window.addEventListener("load", function(){
+    const canva = documetn.getElementById('canvas1');
+    const ctx = canva.getcontext('2d');
+    canva.width = 500;
+    canva.height = 500;
+
+});
+
 
 
 let x = Math.random () * 720
