@@ -58,3 +58,7 @@ body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
 }
+canvas {
+    width: 720px;
+    height: 720px;
+}
