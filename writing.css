@@ -54,5 +54,6 @@ body {
     .content {
         margin-left: 40px;
         padding: 50px 20px;
-        color: #88bdc4; 
+        color: #a7e0e7; 
+        background-image: url("images/under_construction.png");
     }
