@@ -2,6 +2,8 @@
 body {
     background-image: url("images/portown.png");
     position: absolute;
+    background-attachment: fixed;
+    background-size: cover;
 }
 * {
     box-sizing: border-box;
