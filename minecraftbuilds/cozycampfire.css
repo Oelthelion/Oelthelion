@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 body {
     background-image: url("images/cozycampfire.png");
     position: absolute;
@@ -5,8 +6,12 @@ body {
     background-size: cover;
 }
 h1 {
-    font-size: large;
+    font-size: 40px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #000000;
 }
 p {
-    
+    font-size: 13px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #000000;
 }
