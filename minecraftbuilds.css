@@ -42,7 +42,7 @@ body {
     }
     .nav-links li a {
         display: block;
-        color: #ffffff;
+        color: #000000;
         text-decoration: none;
         padding: 10px;
         transition: background-color 0.3s;
@@ -53,6 +53,7 @@ body {
     .content {
         margin-left: 40px;
         padding: 50px 20px;
+        background-color: #000000;
     }
 body {
     font-family: 'JetBrains Mono', monospace;
