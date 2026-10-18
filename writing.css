@@ -49,11 +49,11 @@ body {
         transition: background-color 0.3s;
     }
     .nav-links li a:hover {
-        background-color: #013975dd;
+        background-color: #07386cdd;
     }
     .content {
         margin-left: 40px;
         padding: 50px 20px;
         color: #a7e0e7; 
-        background-image: url("images/under_construction.png");
+        
     }
