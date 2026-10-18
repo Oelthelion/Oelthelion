@@ -1,5 +1,8 @@
 body {
     background-image: url("images/cozycampfire.png");
+    position: absolute;
+    background-attachment: fixed;
+    background-size: cover;
 }
 h1 {
     font-size: large;
