@@ -56,9 +56,11 @@ body {
     }
     .bg-img {
         background-image: url("images/under_construction.png");
+        min-height: 380px;
         background-repeat: no-repeat;
         background-position: right top;
         background-attachment: fixed;
         background-size: cover;
         image-rendering:auto;
+        position: relative;
     }
