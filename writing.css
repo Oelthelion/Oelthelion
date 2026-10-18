@@ -55,4 +55,6 @@ body {
         padding: 50px 20px;
         color: #88bdc4; 
     }
-    
+    body {
+        background-image: url("images/under_construction.png");
+    }
