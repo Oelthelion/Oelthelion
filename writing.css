@@ -53,6 +53,8 @@ body {
     .content {
         margin-left: 40px;
         padding: 50px 20px;
+    }
+    .bg-img {
         background-image: url("images/under_construction.png");
         background-repeat: no-repeat;
         background-position: right top;
