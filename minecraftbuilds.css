@@ -18,7 +18,7 @@ body {
         padding: 0 20px;
         overflow: hidden;
         width: 20px;
-
+        max-width: 1200px;
     }
     header {
         background-color: #04760e;
