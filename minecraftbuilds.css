@@ -69,3 +69,6 @@ body {
 img {
     border: 1px solid #00171a;
 }
+area {
+  display:block;
+}
