@@ -66,5 +66,7 @@ body {
     background-color:#010b0c;
     box {
         background-color: #000000;
+        padding: 10px;
+        
     }
 }
