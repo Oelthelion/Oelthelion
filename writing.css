@@ -12,9 +12,10 @@ body {
         margin: 0 auto;
         padding: 0 20px;
         overflow: hidden;
+        background-image: url("images/under_construction.png");
     }
     header {
-        background-color: #088433;
+        background-color: #ad9977;
         color: #00171a;
         padding: 10px 0;
         text-align: center;
@@ -24,7 +25,7 @@ body {
     }
     .vertical-nav {
         width: 20px;
-        background-color: #088433;
+        background-color: #c97900;
         position: fixed;
         top: 0;
         left: 0;
@@ -42,7 +43,7 @@ body {
     }
     .nav-links li a {
         display: block;
-        color: #b8e8ee;
+        color: #f7e686;
         text-decoration: none;
         padding: 10px;
         transition: background-color 0.3s;
@@ -54,7 +55,4 @@ body {
         margin-left: 40px;
         padding: 50px 20px;
         color: #88bdc4; 
-    }
-    body {
-        background-image: url("images/under_construction.png");
     }
