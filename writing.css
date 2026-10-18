@@ -54,11 +54,12 @@ body {
         margin-left: 40px;
         padding: 50px 20px;
         color: #a7e0e7; 
-        p {
+        img {
             background-image: url("images/under_construction.png");
             background-repeat: no-repeat;
             background-position: right top;
             background-attachment: fixed;
             background-size: cover;
+            image-rendering:auto;
             }
     }
