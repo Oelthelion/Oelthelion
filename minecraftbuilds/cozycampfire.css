@@ -23,6 +23,7 @@ p {
     padding: 0;
     left: 0;
     height: auto;
+    outline: 1px solid #000000;
 
 }
 h2 {
