@@ -1,1 +1,2 @@
-This website will be a mix of my personal projects. Just a mix of ideas. There might be some writing projects, some minecraft builds, and everything I have done
+This website will be a mix of my personal projects. Just a mix of ideas. There might be some writing projects, some minecraft builds, and everything I have done. I am not sure on what else to say.
+How to run: just go through the pages see what I have made! If you get stuck in a dead end go back with the arrows in your browser or your dedicated keybinds. Also note that I have not checked/will not check for linux/mac/phones support. For those who used your Iphone to browse my website tough luck.
