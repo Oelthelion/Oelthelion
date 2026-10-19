@@ -1,0 +1,6 @@
+body {
+    background-image: url("skystation.png");
+    position: absolute;
+    background-attachment: fixed;
+    background-size: cover;
+}
