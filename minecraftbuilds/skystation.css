@@ -1,6 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 body {
     background-image: url("skystation.png");
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+}
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 40px;
+    color: #000000;
+}
+p {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 24px;
+    color: #000000;
 }
