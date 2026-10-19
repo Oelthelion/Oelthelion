@@ -72,3 +72,8 @@ img {
 area {
   display:block;
 }
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 38px;
+    color: #000000;
+}
