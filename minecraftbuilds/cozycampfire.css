@@ -25,3 +25,8 @@ p {
     height: auto;
 
 }
+h2 {
+    font-family: 'JetBrain Mono', monospace;
+    font-size: 22px;
+    color: #5ce6dd;
+}
