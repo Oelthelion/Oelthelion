@@ -70,11 +70,11 @@ img {
     border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABN0lEQVR4Xu3bO27DMBRFQWX/i06QLqYNPxA8he3MKXUBfaZgp6/rur4vZX0BbQMaBzTuEejvtb+d7q/e9P5bO9BNsGkHugk27UA3wab9Eehu6wPevSMPoPcBjQMal4OuZ+K0f3rT99/sQOeAxgGNOwZdW2/w33vqBXQ/oHFA47ZBnZl73fgBPQ9oHNA4oHFA44DGAY0DGgc0Dmgc0DigcUDjgMYBjQMaBzQOaBzQOKBxQOOAxgGNAxoHNA5oHNA4oHFA44DGAY0DGgc0Dmgc0DigcUDjgMYBjQMaBzQOaBzQuBF0zb+ftz31Arof0Digcdug65k57Z/e9P03O9A5oHFA445Bd1sf8O4deQC9D2gc0LgcdD0TT/dXb3r/rR3oJti0A90Em3agm2DT/ghUBwGNAxoHNO4HLcrQATCr96cAAAAQZGVCRzMwRTFCNkVBMzkyRjY5QTW2W2cgAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
     border-width:  1px;
     border-style:  solid;
-    div:hover {
-        width: 20%;
-        height: 20%;
-    }
 }
+img:hover {
+        width: 35%;
+        height: 35%;
+    }
 area {
   display:block;
 }
