@@ -5,7 +5,19 @@ window.addEventListener("load", function(){
     canva.height = 500;
 
 });
+class Game {
+        constructor(width, height){
+                this.width = width;
+                this.height = height;
+        }
+        update(){
 
+        }
+        draw(){
+            
+        }
+
+}
 
 
 let x = Math.random () * 720
