@@ -4,24 +4,30 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+    z-index: 0px;
 }   
 h1 {
     font-size: 38px;
     font-family: 'JetBrains' monospace;
     color: #00000000;
     position: absolute;
+    z-index: 20px;
 }
 p {
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'JetBrains' monospace;
     color: #00000000;
     position: absolute;
-    bottom: -1000px;
+    bottom: 500px;
+    left: 100px;
+    z-index: 20px;
 }
 h2 {
-    font-size: 14px;
+    font-size: 28px;
     font-family: 'JetBrains' monospace;
     color: #00000000;
     position: absolute;
-    bottom: -1000px;
+    bottom: 700px;
+    left: 500px;
+    z-index: 20px;
 }
