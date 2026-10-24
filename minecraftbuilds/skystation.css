@@ -12,9 +12,8 @@ h1 {
 }
 p {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 24px;
+    font-size: 22px;
     color: #000000;
-    content: 100px;
 }
 .box {
     box-sizing: border-box;
@@ -26,7 +25,8 @@ footer {
         font-size: 18px;
         font-family: 'JetBrains Mono', monospace;
         color:#000000;
-        left: 1000px;
-        bottom: 100px;
+        position: absolute;
+        left: 0px;
+        bottom: -650px;
     }
 }
