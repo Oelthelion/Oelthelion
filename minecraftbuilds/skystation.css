@@ -30,10 +30,10 @@ footer {
         color:#000000;  
         position: absolute;
         left: 0px;
-        bottom: -650px;  
-        div:hover {
+        bottom: -650px; 
+    }
+    h2:hover {
         transition: 0.5s; 
         color: #4d92b77e;
         }
-    }
 }
