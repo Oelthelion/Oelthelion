@@ -6,28 +6,27 @@ body {
     background-size: cover;
 }
 h1 {
-    font-size: 40px;
+    font-size: 31px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
 }
 p {
-    font-size: 24px;
+    font-size: 22px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
     top: 0%
 }
-.box {
-    box-sizing:border-box;
-    width: auto;
-    top:0;
-    padding: 0;
-    left: 0;
-    height: auto;
-    outline: 1px solid #000000;
 
-}
 h2 {
     font-family: 'JetBrains Mono';
-    font-size: 22px;
-    color: #5ce6dd;
+    font-size: 16px;
+    color: #000000;
+    position: absolute;
+    left: 0px;
+    bottom: -500px; 
+}
+h2:hover {
+    color: #84c3bc7e;
+    font-size: 19px;
+    transition: 1s;
 }

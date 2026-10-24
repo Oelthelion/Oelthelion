@@ -20,3 +20,6 @@ h2 {
     font-size: 22px;
     color: #045223;
 }
+h2:hover {
+    color: #000000;
+}
