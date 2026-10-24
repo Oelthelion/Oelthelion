@@ -87,6 +87,16 @@ area {
 }
 h1 {
     font-family: 'JetBrains Mono', monospace;
+    font-size: 34px;
+    color: #00000011;
+}
+h1:hover {
+    transition: 1s;
     font-size: 38px;
     color: #000000;
+}
+h1:not(:hover) {
+    transition: 1s;
+    font-size: 34px;
+    color: #00000011;
 }
