@@ -74,7 +74,14 @@ img {
 img:hover {
         width: 35%;
         height: 35%;
+        transition: 1s;
     }
+    img:not(:hover) {
+        width: 30%;
+        height: 30%;
+        transition: 1s;
+    }
+
 area {
   display:block;
 }
