@@ -17,9 +17,12 @@ p {
 }
 h2 {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 22px;
-    color: #045223;
+    font-size: 18px;
+    color: #000000;
+    left: 0px;
+    bottom: -700px;
 }
 h2:hover {
     color: #000000;
+    transition: 1s;
 }
