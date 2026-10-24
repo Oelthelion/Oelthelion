@@ -9,6 +9,7 @@ h1 {
     font-size: 38px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
+    position: center;
 }
 p {
     font-size: 19px;
