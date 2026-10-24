@@ -32,8 +32,8 @@ footer {
         left: 0px;
         bottom: -650px;  
         div:hover {
-            color: #4d92b77e; 
-            transition: 1s; 
+        transition: 0.5s; 
+        color: #4d92b77e;
         }
     }
 }
