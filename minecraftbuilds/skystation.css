@@ -9,11 +9,14 @@ h1 {
     font-family: 'JetBrains Mono', monospace;
     font-size: 40px;
     color: #000000;
+    left: 50%;
 }
 p {
     font-family: 'JetBrains Mono', monospace;
     font-size: 22px;
     color: #000000;
+    position: absolute;
+    left: 0px;
 }
 .box {
     box-sizing: border-box;
