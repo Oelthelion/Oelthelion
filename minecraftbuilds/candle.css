@@ -5,3 +5,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+h1 {
+    font-size: 31px;
+    font-family: 'JetBrains' monospace;
+    color: #000000;
+}
