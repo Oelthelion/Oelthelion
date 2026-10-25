@@ -51,11 +51,14 @@ h2 {
 
 }
 h2:hover {
-    font-size: 26px; 
+    font-size: 22px; 
     font-family: 'JetBrains' monospace;
     color: #d99918;
     transition: 1s;
 }
 h2:not(:hover) {
-    font-size: 26 
+    font-size: 18px;
+    font-family: 'JetBrains' monospace;
+    color: #d999182d;
+    transition: 2.2s;
 }
