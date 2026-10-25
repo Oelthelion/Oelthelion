@@ -11,6 +11,16 @@ h1 {
     color: #1a2125;
     position: center;
 }
+h1:hover {
+    font-size: 38px;
+    color: #1a2125;
+    transition: 1s;
+}
+h1:not(:hover) {
+    font-size: 38px;
+    color: #1a212511;
+    transition: 2.3s;
+}
 p {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospace;
@@ -24,7 +34,7 @@ p:hover {
 p:not(:hover) {
     font-size: 18px;
     color: #00000011;
-    transition: 1s;
+    transition: 1.3s;
 }
 h2 {
     font-family: 'JetBrains Mono', monospace;
