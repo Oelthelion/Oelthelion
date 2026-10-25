@@ -105,5 +105,5 @@ h1:not(:hover) {
     width: 10px;
 }
 ::-webkit-scrollbar-track {
-    background: #000000
+    background: #000000;
 }
