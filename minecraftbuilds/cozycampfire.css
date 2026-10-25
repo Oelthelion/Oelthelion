@@ -10,13 +10,32 @@ h1 {
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
 }
+h1:hover {
+    color: #000000;
+    font-size: 31px;
+    transition: 1s;
+}
+h1:not(:hover) {
+    color: #00000014;
+    font-size: 30px;
+    transition: 3.4s;
+}
 p {
     font-size: 22px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
     top: 0%
 }
-
+p:hover {
+    color: #000000;
+    font-size: 22px;
+    transition: 0.9s;
+}
+p:not(:hover) {
+    color: #00000014;
+    font-size: 21px;
+    transition: 1.4s;
+}
 h2 {
     font-family: 'JetBrains Mono';
     font-size: 16px;
@@ -26,12 +45,12 @@ h2 {
     bottom: -500px; 
 }
 h2:hover {
-    color: #84c3bc7e;
+    color: #fcfcfc84;
     font-size: 19px;
     transition: 1s;
 }
 h2:not(:hover) {
     font-size: 16px;
-    color: #000000;
+    color: #fdfcfc11;
     transition: 1s;
 }

@@ -96,7 +96,7 @@ h1:hover {
     color: #000000;
 }
 h1:not(:hover) {
-    transition: 1s;
+    transition: 3.4Ss;
     font-size: 34px;
     color: #00000011;
 }
