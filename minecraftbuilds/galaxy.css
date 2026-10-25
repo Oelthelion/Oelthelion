@@ -8,26 +8,26 @@ body {
 h1 {
     font-size: 34px;
     color: #00000066;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     position: absolute;
     left: 40%;
 }
 h1:hover {
     font-size: 35px;
     color: #000000;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     transition: 1s;
 }
 h1:not(:hover) {
     font-size: 34px;
     color: #00000066;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     transition: 1.1s;
 }
 p {
     font-size: 21px;
     color: #00000073;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     position: absolute;
     bottom: -300px;
     left: 90px;
@@ -36,19 +36,19 @@ p {
 p:hover {
     font-size: 21px;
     color: #000000;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     transition: 1s;
 }
 p:not(:hover) {
     font-size: 20px;
     color: #00000073;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     transition: 1.1s;
 }
 h2 {
     font-size: 18px;
     color: #000000;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     position: absolute;
     left: 10px;
     bottom: -600px 
@@ -56,12 +56,12 @@ h2 {
 h2:hover {
     font-size: 18px;
     color: #000000;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     transition: 1s;
 }
 h2:not(:hover) {
     font-size: 16px;
     color: #00000024;
-    font-family: 'JetBrians' monospace;
+    font-family: 'JetBrians', monospace;
     transition: 1s;
 }

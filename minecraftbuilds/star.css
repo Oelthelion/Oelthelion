@@ -7,26 +7,26 @@ body {
 }
 h1 {
     font-size: 31px;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color: #78371448;
     position: absolute; 
     left: 680px;
 }   
 h1:hover {
     font-size: 38px;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color:#c26214;
     transition: 1s;
 }
 h1:not(:hover) {
     font-size: 31px;
-    font-family: 'JetBrians' monospace;
+    font-family: 'JetBrians', monospace;
     color: #78371448;
     transition: 3s;
 }
 p {
     font-size: 24px;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color: #78371448;
     position: fixed;
     left: 590px;
@@ -34,31 +34,31 @@ p {
 }
 p:hover {
     font-size: 26px;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color: #9b4516aa;
     transition: 1s;
 }
 p:not(:hover) {
     font-size: 24px;
-    font-family: 'JetBrians' monospace;
+    font-family: 'JetBrians', monospace;
     color: #78371448;
     transition: 2.4s;
 }
 h2 {
     font-size: 18px;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color: #d999182d;
 
 }
 h2:hover {
     font-size: 22px; 
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color: #d99918;
     transition: 1s;
 }
 h2:not(:hover) {
     font-size: 18px;
-    font-family: 'JetBrains' monospace;
+    font-family: 'JetBrains', monospace;
     color: #d999182d;
     transition: 2.2s;
 }

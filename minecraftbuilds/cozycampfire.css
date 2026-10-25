@@ -37,7 +37,7 @@ p:not(:hover) {
     transition: 1.4s;
 }
 h2 {
-    font-family: 'JetBrains Mono';
+    font-family: 'JetBrains Mono', monospace;
     font-size: 16px;
     color: #000000;
     position: absolute;
