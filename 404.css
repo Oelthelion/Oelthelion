@@ -1,0 +1,13 @@
+body {
+    background-image: url(404.png);
+    position: absolute;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 28px;
+    color: #000000;
+}
+h2 {
+
+}
