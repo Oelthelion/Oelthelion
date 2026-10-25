@@ -7,9 +7,10 @@ body {
 }
 h1 {
     font-size: 34px;
-    color: #000000;
+    color: #00000066;
     font-family: 'JetBrains' monospace;
-    left: 20%;
+    position: absolute;
+    left: 40%;
 }
 h1:hover {
     font-size: 35px;
@@ -19,14 +20,26 @@ h1:hover {
 }
 h1:not(:hover) {
     font-size: 34px;
-    color: #000000;
+    color: #00000066;
     font-family: 'JetBrains' monospace;
     transition: 1.1s;
 }
 p {
     font-size: 21px;
+    color: #00000073;
+    font-family: 'JetBrains' monospace;
+}
+p:hover {
+    font-size: 20px;
+    color: #00000073;
+    font-family: 'JetBrains' monospace;
+    transition: 1s
+}
+p:not(:hover) {
+    font-size: 21px;
     color: #000000;
     font-family: 'JetBrains' monospace;
+    transition: 1.1s
 }
 h2 {
     font-size: 18px;
