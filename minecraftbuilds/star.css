@@ -45,5 +45,17 @@ p:not(:hover) {
     transition: 2.4s;
 }
 h2 {
-    
+    font-size: 18px;
+    font-family: 'JetBrains' monospace;
+    color: #d999182d;
+
+}
+h2:hover {
+    font-size: 26px; 
+    font-family: 'JetBrains' monospace;
+    color: #d99918;
+    transition: 1s;
+}
+h2:not(:hover) {
+    font-size: 26 
 }
