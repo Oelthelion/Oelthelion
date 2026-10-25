@@ -20,6 +20,7 @@ h1:not(:hover) {
     font-family:'JetBrains Mono', monospace;
     font-size: 38px;
     color: #00000045;
+    transition: 1s;
 }
 p {
     font-family: 'JetBrains Mono', monospace;
@@ -38,6 +39,7 @@ p:not(:hover) {
     font-size: 24px;
     font-family: 'JetBrains Mono', monospace;
     color: #00000045;
+    transition: 1s;
 }
 footer {
     h2 {
