@@ -12,7 +12,16 @@ h1 {
     left: 20%;
 }
 h1:hover {
-    
+    font-size: 35px;
+    color: #000000;
+    font-family: 'JetBrains' monospace;
+    transition: 1s;
+}
+h1:not(:hover) {
+    font-size: 34px;
+    color: #000000;
+    font-family: 'JetBrains' monospace;
+    transition: 1.1s;
 }
 p {
     font-size: 21px;
