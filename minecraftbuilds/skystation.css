@@ -28,6 +28,13 @@ p {
     position: absolute;
     left: 0px;
 }
+p:hover {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 22px;
+    color: #000000;
+    position: absolute;
+    transition: 1s;
+}
 .box {
     box-sizing: border-box;
     border: 1px;
