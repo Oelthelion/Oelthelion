@@ -10,3 +10,18 @@ h1 {
     font-family: 'JetBrains' monospace;
     color: #000000;
 }
+p {
+    font-size: 23px;
+    font-family: 'JetBrains' monospace;
+    color: #000000;
+}
+h2 {
+    font-size: 18px;
+    font-family: 'JetBrians' monospace;
+    color: #000000;
+}
+h2:hover {
+    font-size: 18px;
+    font-family: 'JetBrains' monospace;
+    color: #000000;
+}
