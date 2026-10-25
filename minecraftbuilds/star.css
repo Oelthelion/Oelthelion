@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+body {
+    background-image: url(../images/star.png);
+    position: absolute;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 31px;
+    font-family: 'JetBrains' monospace;
+    color: #00000012;
+}
