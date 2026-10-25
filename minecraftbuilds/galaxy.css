@@ -6,5 +6,17 @@ body {
     background-size: cover;
 }
 h1 {
-    
+    font-size: 34px;
+    color: #000000;
+    font-family: 'JetBrains' monospace;
+}
+p {
+    font-size: 21px;
+    color: #000000;
+    font-family: 'JetBrains' monospace;
+}
+h2 {
+    font-size: 18px;
+    color: #000000;
+    font-family: 'JetBrains' monospace;
 }
