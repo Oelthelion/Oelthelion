@@ -32,13 +32,12 @@ p:hover {
     font-family: 'JetBrains Mono', monospace;
     font-size: 22px;
     color: #000000;
-    position: absolute;
     transition: 1s;
 }
-.box {
-    box-sizing: border-box;
-    border: 1px;
-    border-color: #000000;
+p:not(:hover) {
+    font-size: 24px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #00000045;
 }
 footer {
     h2 {
