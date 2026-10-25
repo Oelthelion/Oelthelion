@@ -20,7 +20,7 @@ h1:not(:hover) {
     font-size: 31px;
     font-family: 'JetBrains' monospace;
     color: #00000054;
-    transition: 1s;
+    transition: 1.8s;
 }
 p {
     font-size: 23px;
@@ -37,6 +37,7 @@ p:not(:hover) {
     font-size: 25px;
     font-family: 'JetBrains' monospace;
     color: #00000074;
+    transition: 1.6s;
 }
 h2 {
     font-size: 18px;
