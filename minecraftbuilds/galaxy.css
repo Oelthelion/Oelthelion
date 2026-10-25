@@ -9,6 +9,10 @@ h1 {
     font-size: 34px;
     color: #000000;
     font-family: 'JetBrains' monospace;
+    left: 20%;
+}
+h1:hover {
+    
 }
 p {
     font-size: 21px;
