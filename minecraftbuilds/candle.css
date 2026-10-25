@@ -8,20 +8,34 @@ body {
 h1 {
     font-size: 31px;
     font-family: 'JetBrains' monospace;
-    color: #000000;
+    color: #00000054;
+}
+h1:hover {
+    font-size: 34px;
+    font-family: 'JetBrains' monospace;
+    
 }
 p {
     font-size: 23px;
     font-family: 'JetBrains' monospace;
-    color: #000000;
+    color: #00000074;
 }
 h2 {
     font-size: 18px;
     font-family: 'JetBrians' monospace;
-    color: #000000;
+    color: #00000070;
+    position: absolute;
+    bottom: -700px;
 }
 h2:hover {
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'JetBrains' monospace;
-    color: #000000;
+    color: #c54920;
+    transition: 1s;
+}
+h2:not(:hover) {
+    font-size: 18px;
+    font-family: 'JetBrians' monospace;
+    color: #0000005d;
+    transition: 1s;
 }
