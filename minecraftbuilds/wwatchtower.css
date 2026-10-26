@@ -42,19 +42,19 @@ p:not(:hover) {
 h2 {
     font-size: 18px;
     font-family: 'JetBrains Mono', monospace;
-    color: #262b2b70;
+    color: #0c1d1d70;
     position: absolute;
-    bottom: -700px;
+    bottom: -400px;
 }
 h2:hover {
     font-size: 18px;
     font-family: 'JetBrains Mono', monospace;
-    color: #303f3f;
+    color: #0f1111;
     transition: 1s;
 }
 h2:not(:hover) {
     font-size: 16px;
     font-family:'JetBrians Mono', monospace;
-    color: #262b2b70;
+    color: #0a1c1c70;
     transition: 1s;
 }
