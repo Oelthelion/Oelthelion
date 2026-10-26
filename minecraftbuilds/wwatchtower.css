@@ -23,6 +23,7 @@ p:hover {
 p:not(:hover) {
     font-size: 29px;
     font-family: 'JetBrains Mono', monospace;
+    color: #000000;
 }
 h2 {
     font-size: 18px;
