@@ -20,6 +20,10 @@ p:hover {
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
 }
+p:not(:hover) {
+    font-size: 29px;
+    font-family: 'JetBrains Mono', monospace;
+}
 h2 {
     font-size: 18px;
     font-family: 'JetBrains Mono', monospace;
