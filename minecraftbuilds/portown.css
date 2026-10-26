@@ -28,7 +28,7 @@ p {
     color: #3764b0a7;
     position: absolute;
     left: 90px;
-    bottom: -850px;
+    bottom: -4550%;
     right: -900px;
 }
 p:hover {
@@ -66,3 +66,4 @@ h2:not(:hover) {
         left: 695px;
         bottom: -900px;
     }
+/*why is this not working on github but works in the live?*/
