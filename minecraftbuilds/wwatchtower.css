@@ -3,5 +3,9 @@ body {
     background-image: url(../images/winter_watchtower.png);
     position: absolute;
     background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-size: 38px;
     
 }
