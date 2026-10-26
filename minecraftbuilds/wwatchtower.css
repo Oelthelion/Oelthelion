@@ -8,12 +8,19 @@ body {
 h1 {
     font-size: 38px;
     font-family: 'JetBrains Mono', monospace;
-    color: #000000;
+    color: #00000070;
 }
 h1:hover {
     font-size: 38px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
+    transition: 1s;
+}
+h1:not(:hover) {
+    font-size: 36px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #00000070;
+    transition: 1s;
 }
 p {
     font-size: 29px;
