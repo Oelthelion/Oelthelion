@@ -55,15 +55,11 @@ h2:hover {
     color: #101010;
     font-size: 22px;
     position: absolute;
-    left: 695px;
-    bottom: -900px;
 }
 h2:not(:hover) {
         transition: 1s;
         font-size: 12px;
         color: #00000042;
         position: absolute;
-        left: 695px;
-        bottom: -900px;
     }
 /*why is this not working on github but works in the live?*/
