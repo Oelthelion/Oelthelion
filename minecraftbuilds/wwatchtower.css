@@ -43,6 +43,8 @@ h2 {
     font-size: 18px;
     font-family: 'JetBrains Mono', monospace;
     color: #262b2b70;
+    position: absolute;
+    bottom: -700px;
 }
 h2:hover {
     font-size: 18px;
