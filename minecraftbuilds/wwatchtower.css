@@ -7,5 +7,10 @@ body {
 }
 h1 {
     font-size: 38px;
-    
+    font-family: 'JetBrains Mono', monospace;
+    color: #000000;
+}
+p {
+    font-size: 29px;
+    font-family: 'JetBrains Mono', monospace;
 }
