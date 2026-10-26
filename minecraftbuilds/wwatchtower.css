@@ -20,3 +20,8 @@ h2 {
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
 }
+h2:hover {
+    font-size: 18px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #000000;
+}
