@@ -113,3 +113,10 @@ h1:not(:hover) {
 ::-webkit-scrollbar-thumb:hover {
   background: #288390;
 }
+::-moz-scrollbar {
+    width: 10px;
+}
+::-moz-scrollbar-track {
+    background: #000000;
+}
+::-moz-scrollbar-thumb
