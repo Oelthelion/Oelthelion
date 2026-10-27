@@ -119,4 +119,9 @@ h1:not(:hover) {
 ::-moz-scrollbar-track {
     background: #000000;
 }
-::-moz-scrollbar-thumb
+::-moz-scrollbar-thumb {
+    background: #29648f;
+}
+::-moz-scrollbar-thumb:hover {
+    background: #288390;
+}
