@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 body {
     background-image: url(../images/404.png);
+    position: fixed;
+}
+h1 {
+    font-size: 28px;
+    font-family: 'JetBrains Mono', monospace;
 }
