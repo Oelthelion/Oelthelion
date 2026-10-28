@@ -18,11 +18,13 @@ h1 {
     font-size: 29px;
     font-family: 'JetBrains Mono', monospace;
     background-color: #841818cd;    
+    transition: 1s;
 }
 .box1:not(:hover) {
     font-size: 28px;
     font-family: 'JetBrains Mono', monospace;
     background-color: #841818b0;
+    transition: 1s;
 }
 h6 {
     font-size: 19px;
