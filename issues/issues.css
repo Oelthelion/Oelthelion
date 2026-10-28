@@ -14,6 +14,16 @@ h1 {
     height: 90px;
     background-color: #841818b0;    
 }
+.box1:hover {
+    font-size: 29px;
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #841818cd;    
+}
+.box1:not(:hover) {
+    font-size: 28px;
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #841818b0;
+}
 h6 {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospcae;
