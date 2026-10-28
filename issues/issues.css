@@ -26,7 +26,12 @@ h1 {
     background-color: #841818b0;
     transition: 1s;
 }
-
+.box2 {
+    width: 1000px;
+    width: 100%;
+    height: 90px;
+    background-color: #37509a9e;
+}
 h6 {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospcae;
