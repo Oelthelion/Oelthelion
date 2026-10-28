@@ -27,8 +27,8 @@ h1 {
     transition: 1s;
 }
 .box2 {
-    width: 1000px;
-    width: 100%;
+    width: 300px;
+    width: 40%;
     height: 90px;
     background-color: #37509a9e;
 }
