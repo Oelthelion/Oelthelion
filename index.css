@@ -59,3 +59,11 @@ body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
 }
+h2 {
+    font-size: 21px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #43506cbd
+}
+img:hover {
+    
+}
