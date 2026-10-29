@@ -70,7 +70,7 @@ img:hover {
     transition: 1s;
 }
 img:not(:hover) {
-    width: 33%;
-    height: 33%;
+    width: 400px;
+    height: 250px;
     transition: 1s;
 }
