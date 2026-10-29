@@ -74,3 +74,8 @@ img:not(:hover) {
     height: 250px;
     transition: 1s;
 }
+h3 {
+    font-size: 21px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #43506cbd
+}
