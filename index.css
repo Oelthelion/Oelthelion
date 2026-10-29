@@ -77,5 +77,6 @@ img:not(:hover) {
 h3 {
     font-size: 21px;
     font-family: 'JetBrains Mono', monospace;
-    color: #43506cbd
+    color: #43506cbd;
+    position: right;
 }
