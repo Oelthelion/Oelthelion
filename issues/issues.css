@@ -42,6 +42,14 @@ p {
     height: 180px;
     background-color: #37509a9e;
 }
+.box2:hover {
+        background-color: #253975c4;
+        transition: 1s;
+}
+.box2:not(:hover) {
+    background-color: #37509a9e;
+    transition: 1s;
+}
 h6 {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospcae;
