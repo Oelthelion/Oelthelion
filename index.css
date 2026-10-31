@@ -86,6 +86,9 @@ h3 {
 .imghomeright {
     position: absolute;
     right: 0px;
+    width: 400px;
+    height: 350px;
+    transition: 1s;
     img:hover {
     position: absolute;
     right: 0px;
