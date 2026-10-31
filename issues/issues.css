@@ -55,7 +55,20 @@ p {
     background-color: #37509a9e;
     transition: 1s;
 }
-.box3
+.box3 {
+    width: 500px;
+    width: 50%;
+    height: 300px;
+    background-color: #881919ac;
+}
+.box3:hover {
+    background-color: #881919df;
+    transition: 1s;
+}
+.box3:not(:hover) {
+    background-color: #881919ac;
+    transition: 1s;
+}
 h6 {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospcae;
