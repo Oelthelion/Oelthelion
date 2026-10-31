@@ -60,6 +60,7 @@ p {
     width: 50%;
     height: 300px;
     background-color: #881919ac;
+    bottom: -100px;
 }
 .box3:hover {
     background-color: #881919df;
@@ -73,4 +74,6 @@ h6 {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospcae;
     color: #000000;
+    position: absolute;
+    bottom: -500px;  
 }
