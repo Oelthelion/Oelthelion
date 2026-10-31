@@ -87,6 +87,8 @@ h3 {
     position: absolute;
     right: 0px;
     img:hover {
+        position: absolute;
+        right: 0px;
     width: 33%;
     height: 33%;
     transition: 1s;
