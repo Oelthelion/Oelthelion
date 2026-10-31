@@ -54,6 +54,9 @@ h2 {
     bottom: -600px 
 }
 .boxgalaxy {
+    position: absolute;
+    width: 200px;
+    height: 90px;
     h2:hover {
     font-size: 18px;
     color: #000000;
