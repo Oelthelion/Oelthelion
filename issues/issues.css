@@ -61,7 +61,8 @@ p {
     height: 300px;
     background-color: #881919ac;
     position: absolute;
-    bottom: -100px;
+    bottom: -300px;
+    left: 20px;
 }
 .box3:hover {
     background-color: #881919df;
