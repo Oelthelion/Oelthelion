@@ -54,16 +54,13 @@ h2 {
     bottom: -600px 
 }
 .boxgalaxy {
-    position: absolute;
-    width: 200px;
-    width: 90px;
     h2:hover {
     font-size: 18px;
     color: #000000;
     font-family: 'JetBrains', monospace;
     position: absolute;
     width: 200px;
-    width: 90px;
+    height: 90px;
     transition: 1s;
 }
     h2:not(:hover) {
@@ -72,7 +69,7 @@ h2 {
     font-family: 'JetBrians', monospace;
     position: absolute;
     width: 200px;
-    width: 90px;    
+    height: 90px;    
     transition: 1s;
 }
 }
