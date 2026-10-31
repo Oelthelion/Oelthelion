@@ -94,6 +94,8 @@ h3 {
     transition: 1s;
     }
     img:not(:hover) {
+        position: absolute;
+        right: 0px;
     width: 400px;
     height: 250px;
     transition: 1s;
