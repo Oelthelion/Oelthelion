@@ -84,17 +84,19 @@ h3 {
     right: 50px;
 }
 .imghomeright {
-    position: absolute;
-    right: 0px;
-    width: 400px;
-    height: 350px;
-    transition: 1s;
     img:hover {
     position: absolute;
     right: 0px;
     width: 33%;
     height: 33%;
     transition: 1s
+    }
+    img:not(:hover) {
+        position: absolute;
+        right: 0px;
+        width: 400px;
+        height: 350px;
+        transition: 1s;
     }
 }
 /*github pages don't work*/
