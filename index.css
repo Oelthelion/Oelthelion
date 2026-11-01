@@ -90,18 +90,5 @@ h3 {
     right: 325px;
     top: 480px;
 }
-h3:hover {
-    .imghomeleft {
-        width: 350px;
-        height: 400px;
-        transition: 1s;
-    }
-}
-h3:not(:hover) {
-    .imghomeleft {
-        width: 0px;
-        height: 0px;
-        transition: 1s;
-    }
-}
+
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment*/
