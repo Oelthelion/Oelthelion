@@ -90,5 +90,7 @@ h3 {
     right: 325px;
     top: 480px;
 }
-
+.dropdown3 {
+    position: relative;
+}
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment*/
