@@ -90,7 +90,15 @@ h3 {
 h3:hover {
     .imghomeleft {
         image-rendering: auto;
+        width: 350px;
+        height: 400px;
         transition: 1s;
+    }
+}
+h3:not(:hover) {
+    .imghomeleft {
+        width: 0px;
+        height: 0px;
     }
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment*/
