@@ -96,7 +96,10 @@ h3 {
 .dropdown-content {
     display: none;
     position: absolute;
-
+    background-color: #000000;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px #000000;
+    padding: 12px 16px;
 }
 .dropdown3:hover .dropdown-content {
     display: block;
