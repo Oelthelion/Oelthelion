@@ -98,4 +98,7 @@ h3 {
     position: absolute;
 
 }
+.dropdown3:hover .dropdown-content {
+    display: block;
+}
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment*/
