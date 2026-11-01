@@ -74,13 +74,12 @@ h2 {
     background-color: #ffffff;
     min-width: 130;
     box-shadow: 0px 8px 16px 0px #000000;
-    padding: 12px 16px;
 }
 .dropdown2:hover .dropdown-content2 {
     display: block;
     position: absolute;
     top: 120px;
-    right: 10px;
+    left: 10px;
 }
 h3 {
     font-size: 21px;
