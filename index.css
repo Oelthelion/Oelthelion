@@ -94,6 +94,8 @@ h3 {
     position: relative;
 }
 .dropdown-content {
-    
+    display: none;
+    position: absolute;
+
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment*/
