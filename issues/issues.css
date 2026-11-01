@@ -90,4 +90,5 @@ h6 {
 .box65 {
     background-color: #ffffff;
     font-size: 1px;
+    box-sizing:border-box;
 }
