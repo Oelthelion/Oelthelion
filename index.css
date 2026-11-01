@@ -88,6 +88,7 @@ h3 {
 }
 .dropdown3 {
     position: relative;
+    ::marker {
     h3 {
         font-size: 21px;
         font-family: 'JetBrians Mono', monospace;
@@ -96,6 +97,7 @@ h3 {
         right: 325px;
         top: 80px;
     }
+}   
 }
 .dropdown-content3 {
     display: none;
@@ -108,8 +110,6 @@ h3 {
     top: 120px;
     right: 10px;
 }
-::marker {
-    content: 0px;
-}
+
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
