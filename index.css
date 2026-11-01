@@ -65,6 +65,7 @@ h2 {
     color: #43506cbd;  
     bottom: 1200px;
 }
+h2:hover {
 .imghomeleft {
     img:hover {
     left: 0px;
@@ -78,6 +79,10 @@ h2 {
     height: 250px;
     transition: 1s;
     }
+}
+}
+h2:not(:hover) {
+    /*I have no idea why this is not working as I would have thought*/
 }
 h3 {
     font-size: 21px;
