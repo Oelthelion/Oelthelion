@@ -55,6 +55,6 @@ h2:hover {
 h2:not(:hover) {
     font-size: 16px;
     font-family:'JetBrians Mono', monospace;
-    color: #2d414170;
+    color: #85909070;
     transition: 1s;
 }
