@@ -62,7 +62,8 @@ body {
 h2 {
     font-size: 21px;
     font-family: 'JetBrains Mono', monospace;
-    color: #43506cbd;
+    color: #43506cbd;  
+    top: 20px;
 }
 .imghomeleft {
     img:hover {
