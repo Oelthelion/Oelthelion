@@ -71,7 +71,7 @@ img {
     border-width:  1px;
     border-style:  solid;
     display: inline-flex;
-    image-rendering: optimizespeed;
+    image-rendering: optimizeQuality;
 }
 img:hover {
         width: 35%;
