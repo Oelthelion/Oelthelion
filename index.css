@@ -92,7 +92,6 @@ h3 {
 }
 h3:hover {
     .imghomeleft {
-        image-rendering: auto;
         width: 350px;
         height: 400px;
         transition: 1s;
