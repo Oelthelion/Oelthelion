@@ -63,10 +63,12 @@ h2 {
     font-size: 21px;
     font-family: 'JetBrains Mono', monospace;
     color: #43506cbd;  
-    top: 20px;
+    bottom: 1200px;
 }
 .imghomeleft {
     img:hover {
+    left: 0px;
+    bottom: -400px;
     width: 33%;
     height: 33%;
     transition: 1s;
@@ -83,7 +85,7 @@ h3 {
     color: #43506cbd;
     position: absolute;
     right: 325px;
-    top: 723px;
+    top: 480px;
 }
 .imghomeright {
     img:hover {
