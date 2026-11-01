@@ -8,4 +8,4 @@ Use the navibars and photos to navigate through the website, if you get to the b
 Updates:
 This project is dependent over whatever I make in my free time so it may recive a bunch of updates one month and then a whole bunch of nothing in another. 
 Its a website, there is nothing much to it, if I add in a webgame the explination should be here and on the page. 
-Other than that enjoy!
+Other than that...
