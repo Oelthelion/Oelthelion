@@ -96,12 +96,12 @@ h3 {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #000000;
+    background-color: #ffffff;
     min-width: 200px;
     box-shadow: 0px 8px 16px 0px #000000;
     padding: 12px 16px;
 }
-.dropdown3:hover .dropdown-content {
+.dropdown3:hover .dropdown-content:hover {
     display: block;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment*/
