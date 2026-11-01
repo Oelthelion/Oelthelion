@@ -74,7 +74,7 @@ p {
 }
 h6 {
     font-size: 19px;
-    font-family: 'JetBrains Mono', monospcae;
+    font-family: 'JetBrains Mono', monospace;
     color: #000000;
     position: absolute;
     bottom: -500px;  
