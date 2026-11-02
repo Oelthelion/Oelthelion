@@ -1,3 +1,4 @@
+
 body {
     background-image: url(images/404.png);
     position: absolute;
@@ -9,6 +10,11 @@ h1 {
     color: #000000;
 }
 h2 {
+    font-size: 18px;
+    color: #000000;
+}
+p {
     font-size: 22px;
     color: #000000;
+    font-family: 'JetBrians Mono', monospace;
 }
