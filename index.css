@@ -58,7 +58,10 @@ h3 {
 }
 li::marker {
     position: absolute;
-    
+    right: 325px;
+    top: 80px;
+    max-width: 100px;
+    max-height: 20px;
 }
 .dropdown3 {
     position: relative;
