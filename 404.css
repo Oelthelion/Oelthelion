@@ -22,4 +22,5 @@ h4 {
     font-size: 25px;
     color: #000000;
     font-family: 'JetBrians Mono', monospace;
+    text-decoration: underline none;
 }
