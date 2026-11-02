@@ -4,4 +4,8 @@ body {
         font-size: 23px;
         font-family: 'JetBrians Mono', monospace;
     }
+    p {
+        font-size: 18px;
+        font-family: 'JetBrians Mono', monospace;
+    }
 }
