@@ -51,6 +51,6 @@ h2:hover {
 }
 h2:not(:hover) {
     font-size: 16px;
-    color: #fdfcfc11;
+    color: #fdfcfc6a;
     transition: 1s;
 }
