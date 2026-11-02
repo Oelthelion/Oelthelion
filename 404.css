@@ -24,4 +24,5 @@ h4 {
     font-family: 'JetBrians Mono', monospace;
     text-decoration: underline;
     text-decoration-line: 0px;
+    text-decoration-line: #00000000;
 }
