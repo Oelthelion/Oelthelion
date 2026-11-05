@@ -26,6 +26,10 @@ h2 {
     font-size: 24px;
     color: #88bdc4;
 }
-
+h2:hover {
+    .buildsimg {
+        
+    }
+}
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
