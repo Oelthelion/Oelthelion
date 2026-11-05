@@ -59,6 +59,7 @@ h3:hover {
     top: 80px;
 .dropdown3 {
     position: relative;
+    color: #00000000;
 }
 .dropdown-content3 {
     display: none;
