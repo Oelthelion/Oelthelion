@@ -80,7 +80,7 @@ h3:not(:hover) {
 .dropdown-content3 {
     display: none;
     position: absolute;
-    win-width: 130px;
+    min-width: 130px;
 }
 }
 li::marker {
