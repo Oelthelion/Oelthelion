@@ -64,6 +64,7 @@ h3:hover {
     display: none;
     position: absolute;
     min-width: 130px;
+    color: #00000000;
 }
 }
 h3:not(:hover) {
@@ -82,6 +83,7 @@ h3:not(:hover) {
     position: absolute;
     min-width: 130px;
 }
+
 }
 li::marker {
     position: absolute;
