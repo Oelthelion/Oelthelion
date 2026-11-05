@@ -59,13 +59,28 @@ h3:hover {
     top: 80px;
 .dropdown3 {
     position: relative;
-    color: #00000000;
 }
 .dropdown-content3 {
     display: none;
     position: absolute;
-    min-width: 130;
-    color: #00000000;
+    min-width: 130px;
+}
+}
+h3:not(:hover) {
+    font-size: 21px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #43506cbd;
+    position: absolute;
+    right: 325px;
+    top: 80px;
+.dropdown3 {
+    position: relative;
+    display: none;
+}
+.dropdown-content3 {
+    display: none;
+    position: absolute;
+    win-width: 130px;
 }
 }
 li::marker {
