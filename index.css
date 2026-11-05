@@ -50,6 +50,16 @@ h3 {
     right: 325px;
     top: 80px;
 }
+h3:hover {
+.dropdown3 {
+    position: relative;
+}
+.dropdown-content3 {
+    display: none;
+    position: absolute;
+    min-width: 130;
+}
+}
 li::marker {
     position: absolute;
     right: 325px;
@@ -63,14 +73,6 @@ li::marker {
     top: 80px;
     max-width: 100px;
     max-height: 20px;
-}
-.dropdown3 {
-    position: relative;
-}
-.dropdown-content3 {
-    display: none;
-    position: absolute;
-    min-width: 130;
 }
 .dropdown3:hover .dropdown-content3 {
     display: block;
