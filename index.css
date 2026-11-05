@@ -65,6 +65,7 @@ h3:hover {
     display: none;
     position: absolute;
     min-width: 130;
+    color: #00000000;
 }
 }
 li::marker {
