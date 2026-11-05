@@ -82,6 +82,7 @@ h3:not(:hover) {
     display: none;
     position: absolute;
     min-width: 130px;
+    color: #00000000;
 }
 
 }
