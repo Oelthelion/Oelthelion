@@ -28,7 +28,12 @@ h2 {
 }
 h2:hover {
     .buildsimg {
-        
+        image-rendering: auto;
+    }
+}
+h2:not(:hover) {
+    .buildsimg {
+        image-rendering: none;
     }
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
