@@ -32,6 +32,8 @@ h2 {
 h2:hover {
     .buildsimg {
         image-rendering: auto;
+        top: 0px;
+        left: 230px;
     }
 }
 h2:not(:hover) {
