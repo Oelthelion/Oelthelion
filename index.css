@@ -68,21 +68,15 @@ h3 {
 .dropdown2 {
     position: relative;
     display: inline-block;
-    left: 1130px;
-    right: 95%;
-    top: 350px;
-    bottom: 0%;    
+    position: absolute;
+
 }
 .dropdown-content2 {
     display: none;
     background-color: #00000000;
     min-width: 160px;
     z-index: 1s;
-    position: fixed;
-    left: 1370px;
-    right: 90%;
-    top: 380px;
-    bottom: 0%
+    position: absolute;
 }
 .dropdown-content2 a {
     color: black;
