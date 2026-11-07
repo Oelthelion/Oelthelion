@@ -3,7 +3,7 @@ body {
     background-image: url(../images/404.png);
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    position: fixed;
     overflow-y: scroll;
 }
 h1 {
