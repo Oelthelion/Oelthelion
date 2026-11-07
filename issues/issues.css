@@ -2,7 +2,7 @@
 body {
     background-image: url(../images/404.png);
     position: fixed;
-    overflow: auto;
+    overflow: show;
 }
 h1 {
     font-size: 28px;
