@@ -60,8 +60,8 @@ h3 {
     font-size: 24px;
     color: #88bdc4;
     position: absolute;
-    left: 1800px;
-    width: 95%;
+    left: 1600px;
+    right: 95%;
     top: 110%;
 }
 .dropdown-content2 {
