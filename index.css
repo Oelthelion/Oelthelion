@@ -77,5 +77,11 @@ h3 {
     display: block;
     transition: 1s;
 }
+.dropdown-content2 a:hover {
+    background-color: #00000000;
+}
+.dropdown:hover .dropdown-content2 {
+    display: block;
+}
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
