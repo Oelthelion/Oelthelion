@@ -64,12 +64,6 @@ h3 {
     right: 95%;
     top: 350px;
     bottom: 0%;
-    ::marker {
-    left: 1130px;
-    right: 95%;
-    top: 350px;
-    bottom: 0%;
-    }
 }
 .dropdown2 {
     position: relative;
