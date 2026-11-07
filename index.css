@@ -59,11 +59,8 @@ h2 {
 h3 {
     font-size: 24px;
     color: #88bdc4;
-    position: fixed;
-    left: 1380px;
-    right: 95%;
-    top: 350px;
-    bottom: 0%;
+    position: absolute;
+    padding: top;
 }
 .dropdown2 {
     position: relative;
