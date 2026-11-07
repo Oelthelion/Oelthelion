@@ -64,7 +64,11 @@ h3 {
     top: 110%;
 }
 .dropdown-content2 {
-    
+    display: none;
+    position: absolute;
+    background-color: #00000000;
+    min-width: 160px;
+    z-index: 1s;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
