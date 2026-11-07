@@ -62,11 +62,16 @@ h3 {
     position: absolute;
     top: 360px;
     right: 144px;
+} 
+h3:link {
+    position: absolute;
+    top: 360px;
+    right: 144px;
 }
 .dropdown2 {
     position: relative;
     display: inline-block;
-    
+
 }
 .dropdown-content2 {
     display: none;
