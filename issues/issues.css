@@ -94,9 +94,18 @@ p {
     width: 500px;
     width: 35%;
     height: 300px;
-    background-color: #881919ac;
+    background-color: #7e0c0cac;
     position: absolute;
     top: 838px;
+}
+.box4:hover {
+    background-color: #6d0808ce;
+    box-shadow: 4px 0px 4px #3113136d;
+    transition: 1s;
+}
+.box4:not(:hover) {
+    background-color: #7e0c0cac;
+    transition: 1s;
 }
 h6 {
     font-size: 19px;
