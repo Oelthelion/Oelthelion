@@ -66,8 +66,7 @@ h3 {
 .dropdown2 {
     position: relative;
     display: inline-block;
-    position: absolute;
-
+    
 }
 .dropdown-content2 {
     display: none;
