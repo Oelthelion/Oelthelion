@@ -60,10 +60,14 @@ h3 {
     font-size: 24px;
     color: #88bdc4;
     position: absolute;
-    left: 1600px;
+    left: 1500px;
     right: 95%;
     top: 350px;
     bottom: 0%
+}
+.dropdown2 {
+    position: relative;
+    display: inline-block;
 }
 .dropdown-content2 {
     display: none;
@@ -80,7 +84,7 @@ h3 {
 .dropdown-content2 a:hover {
     background-color: #00000000;
 }
-.dropdown:hover .dropdown-content2 {
+.dropdown2:hover .dropdown-content2 {
     display: block;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
