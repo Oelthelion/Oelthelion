@@ -59,12 +59,13 @@ h2 {
 h3 {
     font-size: 24px;
     color: #88bdc4;
-
 } 
+::marker {
+    display: none;
+}
 .dropdown2 {
     position: relative;
     display: inline-block;
-
 }
 .dropdown-content2 {
     display: none;
