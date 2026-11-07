@@ -32,6 +32,7 @@ h2 {
 .dropdown {
     position: relative;
     display: inline-block;
+    transition: 1s;
 }
 .dropdown-content {
     display: none;
@@ -49,9 +50,11 @@ h2 {
 }
 .dropdown-content a:hover {
     background-color: #f1f1f100;
+    transition: 1s;
 }
 .dropdown:hover .dropdown-content {
     display: block;
+    transition: 1s;
 }
 
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
