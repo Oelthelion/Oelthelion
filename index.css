@@ -68,6 +68,10 @@ h3 {
 .dropdown2 {
     position: relative;
     display: inline-block;
+    left: 1130px;
+    right: 95%;
+    top: 350px;
+    bottom: 0%;    
 }
 .dropdown-content2 {
     display: none;
