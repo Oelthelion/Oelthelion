@@ -64,10 +64,9 @@ h3 {
     right: 144px;
 } 
 .dropdown2 {
-    position: sticky;
+    position: relative;
     display: inline-block;
     top: 360px;
-    right: 144px;
 }
 .dropdown-content2 {
     display: none;
