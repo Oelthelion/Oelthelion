@@ -59,7 +59,7 @@ h2 {
 h3 {
     font-size: 24px;
     color: #88bdc4;
-    position: absolute;
+    position: fixed;
     left: 1130px;
     right: 95%;
     top: 350px;
@@ -78,7 +78,7 @@ h3 {
     background-color: #00000000;
     min-width: 160px;
     z-index: 1s;
-    position: absolute;
+    position: fixed;
     left: 1134px;
     right: 90%;
     top: 380px;
