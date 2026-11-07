@@ -63,7 +63,7 @@ h3 {
     top: 360px;
     right: 144px;
 } 
-ul.no-bullets {
+li.no-bullets {
     list-style-type: none;
     padding: 0;
     margin: 0;
