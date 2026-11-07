@@ -74,6 +74,11 @@ h3 {
     background-color: #00000000;
     min-width: 160px;
     z-index: 1s;
+    position: absolute;
+    left: 1500px;
+    right: 95%;
+    top: 280px;
+    bottom: 0%
 }
 .dropdown-content2 a {
     color: black;
