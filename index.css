@@ -63,11 +63,6 @@ h3 {
     top: 360px;
     right: 144px;
 } 
-li.no-bullets {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
 .dropdown2 {
     position: relative;
     display: inline-block;
