@@ -60,7 +60,7 @@ h3 {
     font-size: 24px;
     color: #88bdc4;
     position: absolute;
-    left: 1500px;
+    left: 1130px;
     right: 95%;
     top: 350px;
     bottom: 0%
@@ -75,9 +75,9 @@ h3 {
     min-width: 160px;
     z-index: 1s;
     position: absolute;
-    left: 1500px;
+    left: 1134px;
     right: 90%;
-    top: 230px;
+    top: 380px;
     bottom: 0%
 }
 .dropdown-content2 a {
