@@ -62,7 +62,8 @@ h3 {
     position: absolute;
     left: 1600px;
     right: 95%;
-    top: 110%;
+    top: 350px;
+    bottom: 0%
 }
 .dropdown-content2 {
     display: none;
