@@ -48,6 +48,7 @@ h2 {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
+    text-decoration: none;
     a {
     text-decoration-line: none;
     text-decoration-style: none;
