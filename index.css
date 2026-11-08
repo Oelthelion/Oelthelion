@@ -88,7 +88,7 @@ h3 {
     display: block;
 }
 .box1 {
-    background-color: linear-gradient(168deg, #18496fd1, #2479ed89);
+    background: linear-gradient(168deg, #18496fd1, #167dc189);
     height: 350px;
     width: 360px;
     position: absolute;
