@@ -1,11 +1,13 @@
-This website will be a mix of my personal projects. Just a mix of ideas. There might be some writing projects, some minecraft builds, and everything I have done. I am not sure on what else to say.
-How to run: 
-Go through the pages see what I have made!
-Support: 
-Also note that I have not checked/will not check for linux/mac/phones support. Phone support is not planned.
-Navigation:
-Use the navibars and photos to navigate through the website, if you get to the builds page you can hover over some of the text and read it. This was implemted to bring more focus to the image rather than my subpar text. 
-Updates:
-This project is dependent over whatever I make in my free time so it may recive a bunch of updates one month and then a whole bunch of nothing in another. 
-Its a website, there is nothing much to it, if I add in a webgame the explination should be here and on the page. 
-Other than that...
+How to use:
+1. Try and use a computer (mobile support is not garenteed) 
+2. it is best to view the site in 100% zoom/scale in your browser
+3. Not all links/items automatically appear, you might have to hover over things to properly see everything
+
+What to expect:
+This is a personal website that holds my various personal projects. 
+
+Updates/Patches:
+Sometimes things might break due to my updates. Not everything will be fully functional but most issues will be fixed in a less than a week. 
+
+Features expansions?:
+I hope to add more features as I go and I plan on adding way more pages and adding personal projects as I create them. Although consistant updates might not happen I will try my best to do what I can with the time I have.
