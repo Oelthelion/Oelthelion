@@ -89,7 +89,10 @@ h3 {
 }
 .box1 {
     background-color: #638742;
-    
+    height: 350px;
+    width: 360px;
+    position: absolute;
+    top: 20px;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
