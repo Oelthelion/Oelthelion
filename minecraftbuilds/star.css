@@ -49,20 +49,20 @@ p:not(:hover) {
     transition: 2.4s;
     text-decoration: none;
 }
-h2 {
+a {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
     text-decoration: none;
 }
-h2:hover {
+a:hover {
     font-size: 22px; 
     font-family: 'JetBrains', monospace;
     color: #d99918;
     text-decoration: none;
     transition: 1s;
 }
-h2:not(:hover) {
+a:not(:hover) {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
