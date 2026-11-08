@@ -99,7 +99,7 @@ h3 {
     z-index: 1;
 }
 .box2 {
-    background: linear-gradient(30deg, #bc6c27c5, #f39a5ed2)(130deg, #bc6c27c5, #f39a5ed2);
+    background: linear-gradient(30deg, #eac22ee6, #f3d35ed2, #edb72ed2);
     height: 330px;
     width: 350px;
     position: absolute;
@@ -115,7 +115,7 @@ h3 {
     width: 340px;
     position: absolute;
     bottom: 565px;
-    right: 387px;
+    right: 380px;
     left: 80.53%;
     border-radius: 15px 15px 15px 15px;
     z-index: 3;
