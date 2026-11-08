@@ -42,7 +42,7 @@ h2 {
     color: #000000;
     position: absolute;
     left: 0px;
-    bottom: -500px; 
+    top: 550px;
 }
 h2:hover {
     color: #fcfcfc84;
