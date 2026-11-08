@@ -2,3 +2,10 @@ body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
 }
+h1 {
+    font-size: 22px;
+    color: #556e72;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #556e72;
+}
