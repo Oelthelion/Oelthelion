@@ -49,9 +49,9 @@ h2 {
     font-family: 'JetBrains', monospace;
     color: #d999182d;
     a {
-    text-decoration: none;
     text-decoration-line: none;
     text-decoration-style: none;
+    text-decoration: none;
     color: #00000000;
 }
 }
