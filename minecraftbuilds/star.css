@@ -29,8 +29,8 @@ p {
     font-family: 'JetBrains', monospace;
     color: #78371448;
     position: fixed;
-    left: 590px;
-    top: 80px;
+    left: 500px;
+    top: 90px;
 }
 p:hover {
     font-size: 26px;
@@ -48,6 +48,13 @@ h2 {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
+    a{
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: none;
+    color: #000000;
+    }
+
 
 }
 h2:hover {
