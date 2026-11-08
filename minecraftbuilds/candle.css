@@ -44,7 +44,7 @@ h2 {
     font-family: 'JetBrians', monospace;
     color: #00000070;
     position: absolute;
-    bottom: -700px;
+    top: 780px;
 }
 h2:hover {
     font-size: 20px;
