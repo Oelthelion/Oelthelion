@@ -23,4 +23,5 @@ h4 {
     color: #000000;
     font-family: 'JetBrians Mono', monospace;
     text-decoration: none;
+    text-decoration-line: none;
 }
