@@ -44,7 +44,7 @@ h2 {
     font-family: 'JetBrains Mono', monospace;
     color: #0c1d1d70;
     position: absolute;
-    bottom: -400px;
+    top: 600px;
 }
 h2:hover {
     font-size: 18px;
