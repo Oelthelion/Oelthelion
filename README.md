@@ -2,6 +2,7 @@ How to use:
 1. Try and use a computer (mobile support is not garenteed) 
 2. it is best to view the site in 100% zoom/scale in your browser
 3. Not all links/items automatically appear, you might have to hover over things to properly see everything
+4. Please note that some of the text can be really hard to see so keep your eyes peeled 
 
 What to expect:
 This is a personal website that holds my various personal projects. 
