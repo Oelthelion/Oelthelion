@@ -61,11 +61,13 @@ h2:hover {
     font-family: 'JetBrains', monospace;
     color: #d99918;
     transition: 1s;
+    text-decoration: none;
 }
 h2:not(:hover) {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
     transition: 2.2s;
+    text-decoration: none;
 }
 /*aaaaaad are you going to detect????? WHY WHONT IT DETECT*/
