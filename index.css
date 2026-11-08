@@ -96,6 +96,7 @@ h3 {
     right: 400px;
     left: 80%;
     border-radius: 15px 15px 15px 15px;
+    z-index: 1;
 }
 .box2 {
     background: linear-gradient(30deg, #bc6c27c5, #f39a5ed2)(130deg, #bc6c27c5, #f39a5ed2);
@@ -106,6 +107,7 @@ h3 {
     right: 387px;
     left: 80.35%;
     border-radius: 15px 15px 15px 15px;
+    z-index: 2;
 }
 .box3 {
     background: linear-gradient(30deg, #3788c2c5, #45a7bcd2);
@@ -116,6 +118,7 @@ h3 {
     right: 387px;
     left: 80.53%;
     border-radius: 15px 15px 15px 15px;
+    z-index: 3;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
