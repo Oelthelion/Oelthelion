@@ -52,8 +52,8 @@ h2 {
     text-decoration: none;
     text-decoration-line: none;
     text-decoration-style: none;
-    color: #000000;
-    }
+    color: #00000000;
+}
 }
 h2:hover {
     font-size: 22px; 
