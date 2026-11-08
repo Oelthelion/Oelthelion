@@ -38,12 +38,13 @@ h3 {
     font-family:'JetBrains Mono', monospace;
     color: #000000
 }
-.p1 {
-    font-size: 18px;
+.h8 {
+    font-size: 28px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
     text-decoration-line: line-through;
 }
+/*h8 will be throughline stuff*/
 .rednovember {
 p {
     font-size: 16px;
