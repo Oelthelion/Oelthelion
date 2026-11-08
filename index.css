@@ -95,18 +95,18 @@ h3 {
     bottom: 550px;
     right: 400px;
     left: 80%;
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 5px 5px 5px 5px;
     z-index: 1;
 }
 .box2 {
     background: linear-gradient(30deg, #eac22ee6, #f3d35ed2, #edb72ed2);
-    height: 330px;
-    width: 350px;
+    height: 326px;
+    width: 346px;
     position: absolute;
-    bottom: 560px;
-    right: 387px;
+    bottom: 562px;
+    right: 387.5px;
     left: 80.35%;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 8px 8px 8px 8px;
     z-index: 2;
 }
 .box3 {
