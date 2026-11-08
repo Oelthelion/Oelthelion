@@ -4,8 +4,10 @@ function coolbackground() {
     Math.sin(x);
     Math.sin(y);
     function multiply(x, y) {
-        x * 
+        x * 10;
+        y * 10;
+    let z = x * y;
     }
 }
 
-document.getElementById(output).innerText = "x"
+document.getElementById(output).innerText = "z"
