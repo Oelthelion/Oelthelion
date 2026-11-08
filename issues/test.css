@@ -2,7 +2,7 @@ body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
 }
-#mouse-cover {
+#mouse-cursor {
     width: 20px;
     height: 20px;
     border: 2px solid #49443ea4;
