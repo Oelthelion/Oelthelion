@@ -97,6 +97,8 @@ h3 {
     left: 80%;
     border-radius: 15px 15px 15px 15px;
 }
-.box2
+.box2 {
+    background-color: linear-gradient(30deg, #bc6c27c5, #f39a5ed2);
+}
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
