@@ -11,3 +11,10 @@ for (let i = 0; i < nodes; i++) {
     }
     grid.push(row);
 }
+function perlin_get(x, y) {
+    let x0 = Math.floor(x);
+    let x1 = x0 + 1;
+    let y0 = Math.floor(y);
+    let y1 = y0 + 1;
+    return intensity;
+}
