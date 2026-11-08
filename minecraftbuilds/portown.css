@@ -28,7 +28,8 @@ p {
     color: #3764b0a7;
     position: absolute;
     left: 200px;
-    bottom: 300px;
+    top: 900px;
+    min-width: 300px;
 }
 p:hover {
     font-size: 28px;
@@ -46,8 +47,9 @@ h2 {
     font-family: 'JetBrains', monospace;
     color: #000000ca;
     position: absolute;
-    left: 695px;
-    bottom: -900px;
+    text-align: center;
+    left: 880px;
+    top: 950px;
 }
 h2:hover {
     transition: 1s;
