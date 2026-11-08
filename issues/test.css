@@ -2,3 +2,14 @@ body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
 }
+#mouse-cover {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #49443ea4;
+    border-radius: 50%;
+    position: absolute;
+    pointer-events: none;
+    box-shadow: 0 0  10px #49443ea4, 0 0 20px #49443ea4, 0 0 30px #49443ea4, 0 0 40px, #49443ea4;
+    transition: transform 0.1s, box-shadow 0.1s;
+    transform: translate(-50%, -50%);
+}
