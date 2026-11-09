@@ -6,7 +6,8 @@ function coolbackground() {
     function multiply(e, r) {
         let w = e * 10;
         let q = r * 10;
-    let z = w * q;
+        let z = w * q;
     }
 }
 document.write(z);
+document.write(5 + 1);
