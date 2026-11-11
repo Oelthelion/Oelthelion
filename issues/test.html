@@ -10,19 +10,19 @@
     <script rel="script" href="test.js"></script>
     <h1><a href="../writing/writing.html">writing</a></h1>
     <p id="output"></p>
+    <canvas width="100%" height="100%"></canvas>
     <script>
-let x = Math.random(1-256);
-let y = Math.random(1-256);
-document.write(x * y);
-function coolbackground() {
-    let e = Math.sin(x);
-    let r = Math.sin(y);
-    function multiply(e, r) {
-        let w = e * 10;
-        let q = r * 10;
-        let z = w * q;
-        document.write(z);
-    }
-}
+let x = Math.floor(Math.random() * 256);
+let y = Math.floor(Math.random() * 256);
+document.write(x);
+let e = Math.sin(x);
+let r = Math.sin(y);
+document.write(e);
+let w = e * 10;
+let q = r * 10;
+document.write(w);
+let z = w * q;
+document.write(z);
     </script>
 </body>
+<!--I gave up on java script perlin noise-->
