@@ -22,6 +22,13 @@ body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
 }
+@keyframes dropdown {
+    0% {width: 0px; height: 0px;}
+    25% {width: 120px; height: 75px}
+    50% {width: 240px; height: 150px}
+    75% {width: 360px; height: 225px}
+    100% {width: 480px; height: 300px;}
+}
 a {
     text-decoration: none;
 }
@@ -39,8 +46,8 @@ h2 {
     position: absolute;
     background-color: #f9f9f900;
     min-width: 160px;
-    z-index: 1;
-    transition: 1s;
+    animation-name: dropdown;
+    animation-duration: 2s;
 }
 .dropdown-content a {
     color: black;
@@ -74,6 +81,8 @@ h3 {
     min-width: 160px;
     z-index: 1s;
     position: absolute;
+    animation-name: dropdown;
+    animation-duration: 2s;
 }
 .dropdown-content2 a {
     color: black;
