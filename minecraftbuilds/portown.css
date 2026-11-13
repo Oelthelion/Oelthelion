@@ -63,5 +63,12 @@ h2:not(:hover) {
         color: #00000042;
         position: absolute;
     }
-
+.box1 {
+    position: absolute;
+    top: 1200px;
+    left: 20px;
+    width: 600px;
+    height: 300px;
+    background-color: #3e494e;
+}
 /*why is this not working on github but works in the live?*/
