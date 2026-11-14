@@ -72,6 +72,7 @@ p {
 .box2:hover {
         background-color: #253975c4;
         box-shadow: 4px 0px 4px #111d3e85;
+        border-radius: 8px;
         transition: 1s;
 }
 .box2:not(:hover) {
@@ -90,6 +91,7 @@ p {
 .box3:hover {
     background-color: #881919df;
     box-shadow: 4px 0px 4px #3113136d;
+    border-radius: 8px;
     transition: 1s;
 }
 .box3:not(:hover) {
@@ -113,6 +115,7 @@ p {
 .box4:hover {
     background-color: #6d0808ce;
     box-shadow: 4px 0px 4px #3113136d;
+    border-radius: 8px;
     transition: 1s;
 }
 .box4:not(:hover) {

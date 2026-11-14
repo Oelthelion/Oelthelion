@@ -76,4 +76,29 @@ h2 {
     transition: 1s;
 }
 }
+.galaxiticalFauliures {
+    background-color: #404b50ce;
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    top: 1100px;
+    left: 30px;
+    transition: 1s;
+
+}
+.galaxiticalFauliures:hover {
+    background-color: #30373cba;
+    border-radius: 15px;
+    transition: 1s;
+}
+h3 {
+    font-family: 'JetBrians Mono', monospace;
+    font-size: 31px;
+    color: #000000d2;
+}
+h4 {
+    font-family: 'JetBrians Mono', monospace;
+    font-size: 21px;
+    color: #000000aa;
+}
 /*soo sleepy */
