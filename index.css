@@ -40,6 +40,8 @@ h2 {
     position: relative;
     display: inline-block;
     transition: 1s;
+    animation-name: dropdown;
+    animation: 2s;
 }
 .dropdown-content {
     display: none;
@@ -54,14 +56,38 @@ h2 {
     text-decoration: none;
     display: block;
     transition: 1s;
+    animation-name: dropdown;
+    animation: 2s;
 }
 .dropdown-content a:hover {
     background-color: #f1f1f100;
     transition: 1s;
+    animation-name: dropdown;
+    animation: 2s;
 }
 .dropdown:hover .dropdown-content {
     display: block;
     transition: 1s;
+    animation-name: dropdown;
+    animation: 2s;
+}
+.MCbuildsbox {
+    background-color: #426e905f;
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 240px;
+    left: 800px;
+    transition: 1s
+}
+.MCbuildsbox:hover {
+    border-radius: 8px;
+    transition: 1s;
+}
+.p1 {
+    font-size: 31px;
+    font-family: 'JetBrains Mono', monospace;
+    /*this little feature might become discontinued*/
 }
 h3 {
     font-size: 24px;
@@ -74,6 +100,8 @@ h3 {
     display: inline-block;
     top: 360px;
     right: 238px;
+    animation-name: dropdown;
+    animation: 2s;
 }
 .dropdown-content2 {
     display: none;
@@ -89,13 +117,18 @@ h3 {
     text-decoration: none;
     display: block;
     transition: 1s;
+    animation-name: dropdown;
+    animation: 2s;
 }
 .dropdown-content2 a:hover {
     background-color: #00000000;
 }
 .dropdown2:hover .dropdown-content2 {
     display: block;
+    animation-name: dropdown;
+    animation: 2s;
 }
+
 
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
