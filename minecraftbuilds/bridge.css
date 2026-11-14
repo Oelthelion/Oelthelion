@@ -70,4 +70,11 @@ h2:not(:hover) {
 }
 h3 {
     font-family: 'JetBrains', monospace;
+    font-size: 31px;
+    color: #d1613e;
+}
+h4 {
+    font-family: 'JetBrains', monospace;
+    font-size: 21px;
+    color: #c56b3bb7;
 }

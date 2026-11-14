@@ -54,3 +54,27 @@ h2:not(:hover) {
     color: #fdfcfc11;
     transition: 1s;
 }
+.againWhatbox {
+    background-color: #00000091;
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    top: 1100px;
+    left: 30px;
+    transition: 1s;
+}
+.againWhatbox:hover {
+    border-radius: 15px;
+    transition: 1s;
+    background-color: #000000b3;
+}
+h3 {
+    font-family: 'JetBrains Mono', monospace;
+    color: #cedbdcd4;
+    font-size: 31px;
+}
+h4 {
+    font-family: 'JetBrians Mono', monospace;
+    color: #e1ebedc8;
+    font-size: 21px;
+}
