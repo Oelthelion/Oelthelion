@@ -58,3 +58,25 @@ h2:not(:hover) {
     color: #85909070;
     transition: 1s;
 }
+.whydoIneedThisbox {
+    background-color: #0000003f;
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    top: 1058px;
+    left: 30px;
+    transition: 1s;
+}
+.whydoIneedThisbox:hover {
+    border-radius: 15px;
+    transition: 1s;
+    background-color: #00000090;
+}
+h3 {
+    font-size: 31px;
+    color: #3ba7ff92;
+}
+h4 {
+    font-size: 21px;
+    color: #3ba7ff92;
+}

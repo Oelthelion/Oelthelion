@@ -54,3 +54,20 @@ h2:not(:hover) {
     font-size: 16px;
     color: #00000028;
 }
+.whatbox {
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    top: 1100px;
+    left: 30px;
+    background-color: #00000060;
+    transition: 1s;
+}
+.whatbox:hover {
+    border-radius: 15px; 
+    background-color: #00000080;
+    transition: 1s;
+}
+h3 {
+    font-family: 'JetBrains', monospace;
+}
