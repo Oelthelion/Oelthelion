@@ -61,4 +61,26 @@ footer {
         color:#000000;
         font-size: 16px;
     }
+    .box1 {
+        background-color:#7d2e14a0;
+        height: 300px;
+        width: 600px;
+        position: absolute;
+        top: 1100px;
+        left: 30px;
+        transition: 1s;
+    }
+    .box1:hover {
+        border-radius: 15px;
+        background-color: #7d2e14b5;
+        transition: 1s;
+    }
+    h3 {
+        font-size: 31px;
+        color: #b6aeae8f;
+    }
+    h4 {
+        font-size: 21px;
+        color: #a9a4a475;
+    }
 }
