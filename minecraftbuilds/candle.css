@@ -58,3 +58,27 @@ h2:not(:hover) {
     color: #000000d0;
     transition: 1s;
 }
+.box1{
+    background-color:#c5492057;
+    height: 300px;
+    width: 500px;
+    transition: 1s;
+    position: absolute;
+    top: 1100px;
+    left: 30px;
+}
+.box1:hover {
+    transition: 1s;
+    border-radius: 15px;
+    background-color:#c5492077;
+}
+h3 {
+    color:#00000088;
+    font-size: 31px;
+    font-family: 'JetBrians', monospace;
+}
+h4 {
+    color:#00000088;
+    font-size: 21px;
+    font-family: 'JetBrains', monospace;
+}
