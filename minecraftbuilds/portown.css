@@ -22,7 +22,7 @@ h1:not(:hover) {
     color: #557c9111;
     transition: 1s;
 }
-p {
+h4 {
     font-size: 28px;
     font-family: 'JetBrains', monospace;
     color: #3764b0a7;
@@ -31,13 +31,13 @@ p {
     top: 900px;
     min-width: 300px;
 }
-p:hover {
+h4:hover {
     font-size: 28px;
     font-family: 'JetBrains', monospace;
     color: #3764b0a7;
     transition: 1s;
 }
-p:not(:hover) {
+h4:not(:hover) {
     font-size: 26px;
     color: #3764b011;
     transition: 1s;
@@ -69,6 +69,22 @@ h2:not(:hover) {
     left: 20px;
     width: 600px;
     height: 300px;
+    background-color: #3e494e65;
+    transition: 1s;
+}
+.box1:hover {
     background-color: #3e494e;
+    border-radius: 15px;
+    transition: 1s;
+}
+h3 {
+    font-size: 31px;
+    font-family: 'JetBrians', monospace;
+    color: #112024;
+}
+p {
+    font-size: 21px;
+    font-family: 'JetBrians', monospace;
+    color: #98aeb0c1;
 }
 /*why is this not working on github but works in the live?*/
