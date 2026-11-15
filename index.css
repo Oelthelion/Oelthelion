@@ -156,10 +156,10 @@ h3 {
 .notification {
     position: sticky;
     top: 200px;
-    right: 30px;
-    height: 100px;
-    width: 90px;
-    background-color: #051a2a2c;
+    left: 900px;
+    height: 400px;
+    width: 200px;
+    background-color: #36a8ff;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
