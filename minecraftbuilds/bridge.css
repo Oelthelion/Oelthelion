@@ -78,3 +78,22 @@ h4 {
     font-size: 21px;
     color: #c56b3bb7;
 }
+.imagesbox {
+    background-image: url(../images/backgroundlazyness.png);
+    background-size: cover;
+    position: absolute;
+    top: 1100px;
+    left: 1200px;
+    height: 300px;
+    width: 480px;
+    z-index: 2;
+}
+.imagesboxbackground {
+    background-color: #552610e3;
+    position: absolute;
+    top: 1095px;
+    left: 1195px;
+    height: 310px;
+    width: 490px;
+    z-index: 1;
+}
