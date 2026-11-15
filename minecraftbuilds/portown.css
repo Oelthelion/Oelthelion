@@ -87,4 +87,22 @@ p {
     font-family: 'JetBrians', monospace;
     color: #98aeb0c1;
 }
+.progress {
+    background-image: url(../images/firststep.png);
+    background-size: cover;
+    height: 300px;
+    width: 480px;
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+.progress2 {
+    background-image: url(../images/abandonhome.png);
+    background-size: cover;
+    height: 300px;
+    width: 480px;
+    position: absolute;
+    top: 1200px;
+    left: 1280px;
+}
 /*why is this not working on github but works in the live?*/
