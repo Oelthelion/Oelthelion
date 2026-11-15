@@ -28,30 +28,32 @@ h1 {
     background-color: #841818b0;
     transition: 1s;
 }
-h2 {
+/*Most of the font styles*/
+    h2 {
     font-size: 18px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
-}
-h3 {
+    }
+    h3 {
     font-size: 18px;
     font-family:'JetBrains Mono', monospace;
     color: #000000
-}
-p1 {
+    }
+    p1 {
     font-size: 16px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
     text-decoration-line: line-through;
-}
+    }
 /*p1 will be throughline stuff*/
-p {
+    p {
     font-size: 16px;
      font-family: 'JetBrains Mono', monospace;
     color: #000000;
-}
-.rednovember {
-p {
+    }
+    .rednovember {
+        /*refer to html page's explination but just november related stuff*/
+    p {
     font-size: 16px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
@@ -61,23 +63,21 @@ p {
     text-decoration: none;
     color: #000000;
     }
-}
-}
+    }
+    }
+/*box galore*/
 .box2 {
     width: 500px;
     width: 35%;
     height: 310px;
     background-color: #37509a9e;
+    transition: 1s;
 }
 .box2:hover {
         background-color: #253975c4;
         box-shadow: 4px 0px 4px #111d3e85;
         border-radius: 8px;
         transition: 1s;
-}
-.box2:not(:hover) {
-    background-color: #37509a9e;
-    transition: 1s;
 }
 .box3 {
     width: 500px;
@@ -87,15 +87,12 @@ p {
     position: absolute;
     top: 430px;
     left: 20px;
+    transition: 1s;
 }
 .box3:hover {
     background-color: #881919df;
     box-shadow: 4px 0px 4px #3113136d;
     border-radius: 8px;
-    transition: 1s;
-}
-.box3:not(:hover) {
-    background-color: #881919ac;
     transition: 1s;
 }
 .box65 {
@@ -111,15 +108,12 @@ p {
     background-color: #7e0c0cac;
     position: absolute;
     top: 790px;
+    transition: 1s;
 }
 .box4:hover {
     background-color: #6d0808ce;
     box-shadow: 4px 0px 4px #3113136d;
     border-radius: 8px;
-    transition: 1s;
-}
-.box4:not(:hover) {
-    background-color: #7e0c0cac;
     transition: 1s;
 }
 .iEatrain {
@@ -133,8 +127,10 @@ p {
     transition: 1s;
 }
 .iEatrain:hover {
-    border-radius: 15px;
+    border-radius: 8px;
     background-color: #6d0808ce;
+    box-shadow: 4px 0px 4px #3113136d;
+    transition: 1s;
 }
 
 h6 {
