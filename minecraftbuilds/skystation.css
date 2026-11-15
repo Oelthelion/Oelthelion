@@ -78,24 +78,42 @@ footer {
     h3 {
         font-size: 31px;
         color: #b6aeae8f;
+        text-shadow: 20px, 20px;
     }
     h4 {
         font-size: 21px;
         color: #a9a4a475;
+        text-shadow: 20px, 20px;
     }
     .norender {
-    background-color: #000000;
+    background-color: #7d725f;
+    position: absolute;
+    top: 1090px;
+    left: 940px;
+    width: 660px;
+    height: 420px;
+    transition: 1s;
+}
+    .norender:hover {
+        border-radius: 15px;
+        transition: 1s;
+    }
+    .imgrenderissues {
     position: absolute;
     top: 1100px;
-    left: 850px;
-    background-image: url(../images/norender.png);
-    width: 500px;
-    height: 320px;
-    .imagerenderissues {
-    position: fixed;
-    top: 0px;
-    left: 0px;
+    left: 950px;
+    transition: 1s;
+    .img:hover {
+        border-radius: 15px;
+        transition: 1s;
+    }
 }
+    .imgrenderissues:hover {
+        border-radius: 15px;
+        transition: 1s;
+    }
 }
-
+/*This code sucks so bad I might have to clean this up... Not today!!!*/
+::-webkit-scrollbar {
+    width: 10px;
 }

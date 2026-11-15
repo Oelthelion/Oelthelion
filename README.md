@@ -8,7 +8,7 @@ What to expect:
 This is a personal website that holds my various personal projects. 
 
 Updates/Patches:
-Sometimes things might break due to my updates. Not everything will be fully functional but most issues will be fixed in a less than a week. 
+Sometimes things might break due to my updates. Not everything will be fully functional but most issues will be fixed in a less than a week. Please also note that due to some inconsistant compatability the custom scrollbars might not work on firefox based browers. This also applys to edge but I know no one who willingly uses that "browser". 
 
 Features expansions?:
 I hope to add more features as I go and I plan on adding way more pages and adding personal projects as I create them. Although consistant updates might not happen I will try my best to do what I can with the time I have.
