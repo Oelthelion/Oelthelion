@@ -83,4 +83,19 @@ footer {
         font-size: 21px;
         color: #a9a4a475;
     }
+    .norender {
+    background-color: #000000;
+    position: absolute;
+    top: 1100px;
+    left: 850px;
+    background-image: url(../images/norender.png);
+    width: 500px;
+    height: 320px;
+    .imagerenderissues {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+}
+
 }

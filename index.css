@@ -72,7 +72,7 @@ h2 {
     animation: 2s;
 }
 .MCbuildsbox {
-    background-color: #426e905f;
+    background-color: #051a2a2c;
     height: 300px;
     width: 400px;
     position: absolute;
@@ -82,11 +82,15 @@ h2 {
 }
 .MCbuildsbox:hover {
     border-radius: 16px;
+    background-color: #051a2a8c;
     transition: 1s;
 }
-.p1 {
-    font-size: 31px;
+p1 {
+    font-size: 21px;
     font-family: 'JetBrains Mono', monospace;
+    color: #88bdc4b6;
+    text-align: center;
+    margin: 10px;
     /*this little feature might become discontinued*/
 }
 h3 {
@@ -128,7 +132,5 @@ h3 {
     animation-name: dropdown;
     animation: 2s;
 }
-
-
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
