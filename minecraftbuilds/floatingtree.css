@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+body {
+    background-image: url("../images/floatingtree.png");
+}
+h1 {
+    font-size: 31px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #658d4fa4;
+    transition: 1s;
+}
+h1:hover {
+    font-size: 32px;
+    font-family: 'JetBrains Mono', monospace;
+    background: linear-gradient(to right, #658d4fa4, #4c6d3a);
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: 1s;
+}
