@@ -113,7 +113,4 @@ footer {
         transition: 1s;
     }
 }
-/*This code sucks so bad I might have to clean this up... Not today!!!*/
-::-webkit-scrollbar {
-    width: 10px;
-}
+/*This code sucks so bad I might have to clean this up... Not today!!! I give up on custom scrollbar again*/

@@ -132,5 +132,19 @@ h3 {
     animation-name: dropdown;
     animation: 2s;
 }
+.devlogBox {
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 590px;
+    left: 800px;
+    background-color: #051a2a2c;
+    transition: 1s;
+}
+.devlogBox:hover {
+    background-color: #051a2a8c;
+    border-radius: 15px;
+    transition: 1s;
+}
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
