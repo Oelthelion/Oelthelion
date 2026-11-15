@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 body {
     background-image: url("../images/floatingtree.png");
+    position: absolute;
+    background-attachment: fixed;
+    background-size: cover;
 }
 h1 {
     font-size: 31px;
@@ -12,7 +15,40 @@ h1:hover {
     font-size: 32px;
     font-family: 'JetBrains Mono', monospace;
     background: linear-gradient(to right, #658d4fa4, #4c6d3a);
-    -webkit-background-clip: text;
-    color: transparent;
+    background-clip: text;
     transition: 1s;
+}
+h2 {
+    text-decoration: none;
+    color: #658d4fa4;
+    position: fixed;
+    top: 400px;
+}
+a {
+    text-decoration: none;
+    color: #658d4fa4;
+}
+.boxy {
+    height: 300px;
+    width: 600px;
+    background-color: #6a8a43b2;
+    position: absolute;
+    top: 1100px;
+    left: 40px;
+    transition: 1s;
+}
+.boxy:hover {
+    border-radius: 15px;
+    background-color: #6a8a43c3;
+    transition: 1s;
+}
+h3 {
+    font-size: 31px;
+    color: #ad4925dd;
+    font-family: 'JetBrains Mono', monospace;
+}
+h4 {
+    font-size: 21px;
+    color: #ad4925dd;
+    font-family: 'JetBrians Mono', monospace;
 }
