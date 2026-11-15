@@ -24,9 +24,9 @@ body {
 }
 @keyframes dropdown {
     0% {width: 0px; height: 0px;}
-    25% {width: 120px; height: 75px}
-    50% {width: 240px; height: 150px}
-    75% {width: 360px; height: 225px}
+    25% {width: 120px; height: 75px;}
+    50% {width: 240px; height: 150px;}
+    75% {width: 360px; height: 225px;}
     100% {width: 480px; height: 300px;}
 }
 a {
@@ -81,7 +81,7 @@ h2 {
     transition: 1s
 }
 .MCbuildsbox:hover {
-    border-radius: 8px;
+    border-radius: 16px;
     transition: 1s;
 }
 .p1 {
