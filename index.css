@@ -12,6 +12,8 @@ body {
         color: #00171a;
         padding: 10px 0;
         text-align: center;
+        height: 45px;
+        font-size: 21px;
     }
     .content {
         margin-left: 40px;
@@ -154,12 +156,31 @@ h3 {
     box-shadow: 2px 0px 2px #35090962;
 }
 .notification {
-    position: sticky;
-    top: 200px;
+    position: fixed;
+    margin: 20px;
+    top: 100px;
     left: 900px;
-    height: 400px;
-    width: 200px;
-    background-color: #36a8ff;
+    left: 77%;
+    height: 390px;
+    width: 400px;
+    background-color: #0e2f208c;
+    transition: 1s;
+}
+.notification:hover {
+    background-color: #0e2f20b9;
+    border-radius: 12px;
+    transition: 1s;
+}
+.testbox {
+    position: absolute;
+    top: 2000px;
+    left: 90px;
+    height: 300px;
+    width: 300px;
+    background-color: #c52525;
+}
+ul.no-bullets {
+    list-style-type: none;
 }
 /*github pages don't work I had to refresh this. Every time it does not work I will add to this comment なんだこれええええ。
 めんどくさいものだ。*/
