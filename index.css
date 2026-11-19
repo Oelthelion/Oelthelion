@@ -15,11 +15,13 @@ body {
         height: 45px;
         font-size: 21px;
     }
+    /*Green banner for header. With title*/
     .content {
         margin-left: 40px;
         padding: 50px 20px;
         color: #88bdc4; 
     }
+    /*I am not sure what content does I need to figure this out*/
 body {
     font-family: 'JetBrains Mono', monospace;
     background-color:#010b0c
@@ -44,19 +46,19 @@ h2 {
     color: #88bdc4;
 }
 .dropdown {
+    animation-name: dropdown;
+    animation: 2s;
     position: relative;
     display: inline-block;
     transition: 1s;
-    animation-name: dropdown;
-    animation: 2s;
 }
 .dropdown-content {
+    animation-name: dropdown;
+    animation: 2s;
     display: none;
     position: absolute;
     background-color: #f9f9f900;
     min-width: 160px;
-    animation-name: dropdown;
-    animation-duration: 2s;
 }
 .dropdown-content a {
     color: black;
@@ -178,6 +180,7 @@ h3 {
     height: 300px;
     width: 300px;
     background-color: #c52525;
+    display: none;
 }
 h4 {
     margin: 20px;
