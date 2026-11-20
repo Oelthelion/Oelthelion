@@ -10,16 +10,27 @@
     <h1>
         Floating Tree
     </h1>
+
     <h2><a href="../minecraftbuilds.html">Back</a></h2>
-    <element event='scroll'>
-    <div class="boxy">
+
+    <div class="boxy" id="boxy">
         <!--Addedin box for this page on what my thoughts were-->
-        <h3>A floating tree</h3>
+            <h3>A floating tree</h3>
         <h4>A floating tree, I was fiddling around with worldedit. I remeber following shovel241's world edit tutorial for this one. </h4>
     </div>
-    </element>
+
+    <p id="boxyanimation">
+
+    </p>
+
+    <div onscroll="scrollboxy()">
+
+    </div>
+
     <script>
-        onscroll = (scroll) => {requestAnimationFrame(scroll)};
+        function scrollboxy() {
+            document.getElementById("boxy").innerHTML = "boxy";
+        }
     </script>
 </body>
 </html>

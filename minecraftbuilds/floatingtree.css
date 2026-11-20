@@ -28,11 +28,6 @@ a {
     text-decoration: none;
     color: #658d4fa4;
 }
-element.scroll {
-    @keyframes scroll {
-        from: {left: -340px;}
-        to: {left: 40px;}
-    }
 .boxy {
     height: 300px;
     width: 600px;
@@ -48,7 +43,6 @@ element.scroll {
     background-color: #6a8a43c3;
     transition: 1s;
 }
-}
 .boxy {
     height: 300px;
     width: 600px;
@@ -63,6 +57,7 @@ element.scroll {
     background-color: #6a8a43c3;
     transition: 1s;
 }
+
 h3 {
     font-size: 31px;
     color: #ad4925dd;
