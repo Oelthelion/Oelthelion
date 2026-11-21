@@ -4,6 +4,7 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+    scroll-timeline-name: boxgalaxy;
 }
 h1 {
     font-size: 34px;
@@ -76,6 +77,10 @@ h2 {
     transition: 1s;
 }
 }
+@keyframes galaxiticalFauliure {
+    0% {opactiy: 0; transform: translatex(-600px);}
+    100% {opactiy: 1; transform: translatex(0px);}
+}
 .galaxiticalFauliures {
     background-color: #404b50ce;
     height: 300px;
@@ -84,7 +89,8 @@ h2 {
     top: 1100px;
     left: 30px;
     transition: 1s;
-
+    animation: boxy 1s linear;
+    animation-timeline: boxystuff;
 }
 .galaxiticalFauliures:hover {
     background-color: #30373cba;

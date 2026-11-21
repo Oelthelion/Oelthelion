@@ -46,7 +46,7 @@ a {
     top: 1100px;
     left: 40px;
     transition: 1s;
-    animation: boxy 1s linear;
+    animation: boxy 1s ease-in-out;
     animation-timeline: boxystuff;
 }
 .boxy:hover {
