@@ -4,6 +4,7 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+    scroll-timeline-name: boxystuff;
 }
 h1 {
     font-size: 31px;
@@ -21,22 +22,16 @@ h1:hover {
 h2 {
     text-decoration: none;
     color: #658d4fa4;
-    position: fixed;
+    position: relative;
     top: 400px;
 }
 a {
     text-decoration: none;
     color: #658d4fa4;
 }
-.boxy {
-    height: 300px;
-    width: 600px;
-    background-color: #6a8a43b2;
-    position: absolute;
-    top: 1100px;
-    transition: 1s;
-    animation: scroll;
-    animation: 2s;
+@keyframes boxy {
+    0% {opactiy: 0; transform: translatex(-600px);}
+    100% {opactiy: 1; transform: translatex(600px);}
 }
 .boxy:hover {
     border-radius: 15px;
@@ -51,6 +46,8 @@ a {
     top: 1100px;
     left: 40px;
     transition: 1s;
+    animation: boxy 1s linear;
+    animation-timeline: boxystuff;
 }
 .boxy:hover {
     border-radius: 15px;
