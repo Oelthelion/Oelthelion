@@ -28,14 +28,13 @@ body {
 }
 /*I am not sure why this animation is not working but oh well just more broken code that gets kicked down the road*/
 @keyframes dropdown {
-    0% {width: 0px; height: 0px;}
-    25% {width: 120px; height: 75px;}
-    50% {width: 240px; height: 150px;}
-    75% {width: 360px; height: 225px;}
-    100% {width: 480px; height: 300px;}
+    0% {scale: 0%; opacity: 10%}
+    100% {scale: 100%; opacity: 80%}
 }
-
-/*Links look ugly*/
+@keyframes dropdown2 {
+    0% {opactiy: 0; transform: translatex(-60px);}
+    100% {opactiy: 100%; transform: translatex(1px);}
+}
 
 a {
     text-decoration: none;
@@ -46,39 +45,30 @@ h2 {
     color: #88bdc4;
 }
 .dropdown {
-    animation-name: dropdown;
-    animation: 2s;
     position: relative;
     display: inline-block;
     transition: 1s;
 }
 .dropdown-content {
-    animation-name: dropdown;
-    animation: 2s;
     display: none;
     position: absolute;
     background-color: #f9f9f900;
     min-width: 160px;
+    animation: dropdown 200ms ease-in-out;
 }
 .dropdown-content a {
     color: black;
     text-decoration: none;
     display: block;
     transition: 1s;
-    animation-name: dropdown;
-    animation: 2s;
 }
 .dropdown-content a:hover {
     background-color: #f1f1f100;
     transition: 1s;
-    animation-name: dropdown;
-    animation: 2s;
 }
 .dropdown:hover .dropdown-content {
     display: block;
     transition: 1s;
-    animation-name: dropdown;
-    animation: 2s;
 }
 .MCbuildsbox {
     background-color: #051a2a2c;
@@ -114,8 +104,7 @@ h3 {
     display: inline-block;
     top: 360px;
     right: 238px;
-    animation-name: dropdown;
-    animation: 2s;
+    animation: dropdown2 200ms ease-in-out;
 }
 .dropdown-content2 {
     display: none;
@@ -123,16 +112,14 @@ h3 {
     min-width: 160px;
     z-index: 1s;
     position: absolute;
-    animation-name: dropdown;
-    animation-duration: 2s;
+    animation: dropdown2 200ms ease-in-out;
 }
 .dropdown-content2 a {
     color: black;
     text-decoration: none;
     display: block;
     transition: 1s;
-    animation-name: dropdown;
-    animation: 2s;
+    animation: dropdown2 200ms ease-in-out; 
 }
 .dropdown-content2 a:hover {
     background-color: #00000000;
