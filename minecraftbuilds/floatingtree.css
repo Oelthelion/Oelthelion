@@ -30,8 +30,8 @@ a {
     color: #658d4fa4;
 }
 @keyframes boxy {
-    0% {opactiy: 0; transform: translatex(-600px);}
-    100% {opactiy: 1; transform: translatex(600px);}
+    from {opactiy: 0; transform: translatex(0px);}
+    to {opactiy: 1; transform: translatex(40px);}
 }
 .boxy:hover {
     border-radius: 15px;
@@ -44,7 +44,7 @@ a {
     background-color: #6a8a43b2;
     position: absolute;
     top: 1100px;
-    left: 40px;
+    left: -600px;
     transition: 1s;
     animation: boxy 1s ease-in-out;
     animation-timeline: boxystuff;
