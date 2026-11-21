@@ -55,6 +55,7 @@ h2:not(:hover) {
     color: #00000028;
 }
 .whatbox {
+    box-sizing: border-box;
     height: 300px;
     width: 600px;
     position: absolute;
