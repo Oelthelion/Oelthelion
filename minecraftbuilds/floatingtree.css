@@ -29,10 +29,13 @@ a {
     text-decoration: none;
     color: #658d4fa4;
 }
+/*
 @keyframes boxy {
     from {opactiy: 0; transform: translatex(0px);}
     to {opactiy: 1; transform: translatex(40px);}
 }
+    not sure why this did not work
+    */
 .boxy:hover {
     border-radius: 15px;
     background-color: #6a8a43c3;
@@ -44,7 +47,7 @@ a {
     background-color: #6a8a43b2;
     position: absolute;
     top: 1100px;
-    left: -600px;
+    left: 40px;
     transition: 1s;
     animation: boxy 1s ease-in-out;
     animation-timeline: boxystuff;

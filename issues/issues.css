@@ -140,3 +140,12 @@ h6 {
     position: absolute;
     top: 1400px;
 }
+
+.linebars {
+    width: 4px;
+    height: 1450px;
+    background-color: #8d3535;
+    position: absolute;
+    top: -13px;
+    left: -8px;
+}
