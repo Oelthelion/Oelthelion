@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+body {
+    background-image: url(../images/fall.png);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    color: #b47373;
+    font-size: 32px;
+    position: absoulte;
+    left: 20px;
+    top: 20px;
+}
+a {
+    text-decoration: none;
+    color: #a55e31;
+    font-size: 18px;    
+    font-family: 'JetBrains Mono', monospace;
+    position: absolute;
+    left: 30px;
+    top: 300px;
+}
+p {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 20px;
+    color: #693106c0;
+
+}
+h3 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 24px;
+    color: #753708b7;
+}
+.wheatfarm {
+    background-color: #a5782ac7;
+    position: absolute;
+    left: 40px;
+    top: 1100px;
+    top: 110%;
+    width: 600px;
+    height: 300px;
+    transition: 1s;
+}
+.wheatfarm:hover {
+    border-radius: 12px;
+    transition: 1s;
+}
