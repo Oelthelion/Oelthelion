@@ -5,6 +5,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     scroll-timeline-name: boxystuff;
+    overflow-x: hidden;
 }
 h1 {
     font-size: 31px;
@@ -67,4 +68,40 @@ h4 {
     font-size: 21px;
     color: #ad4925dd;
     font-family: 'JetBrians Mono', monospace;
+}
+
+.footer {
+    box-sizing: border-box;
+    width: 1850px;
+    height: 300px;
+    position: absolute;
+    top: 1530px;
+    background-color: #6a8a43c3;
+}
+.list {
+    width: 1850px;
+    height: 200px;
+    display: inline-flex;
+    flex-direction: row;
+    /*background-color: #4a8e98; test things so not useful*/
+}
+.list div {
+    width: 100px;
+    column-gap: 300px;
+    padding-left: 300px;
+    padding-top: 33px;
+    /*background-color: #000000; test things so not useful*/
+}
+a {
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+    color: #ad4925dd;
+    font-family: 'JetBrains Mono', monospace;
+
+}
+p2 {
+    font-family: 'JetBrians Mono', monospace;
+    font-size: 23px;
+    color: #ad4925dd;
 }

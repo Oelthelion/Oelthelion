@@ -4,6 +4,7 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+    overflow-x: hidden;
 }
 h1 {
     font-family: 'JetBrains Mono', monospace;
@@ -112,5 +113,41 @@ footer {
         border-radius: 15px;
         transition: 1s;
     }
+}
+
+.footer {
+    box-sizing: border-box;
+    width: 1850px;
+    height: 300px;
+    position: absolute;
+    top: 1530px;
+    background-color: #c8b79a42;
+}
+.list {
+    width: 1850px;
+    height: 200px;
+    display: inline-flex;
+    flex-direction: row;
+    /*background-color: #4a8e98; test things so not useful*/
+}
+.list div {
+    width: 100px;
+    column-gap: 300px;
+    padding-left: 300px;
+    padding-top: 33px;
+    /*background-color: #000000; test things so not useful*/
+}
+a {
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+    color: #1c0e01c1;
+    font-family: 'JetBrains Mono', monospace;
+
+}
+p2 {
+    font-family: 'JetBrians Mono', monospace;
+    font-size: 23px;
+    color: #98aeb0c1;
 }
 /*This code sucks so bad I might have to clean this up... Not today!!! I give up on custom scrollbar again*/

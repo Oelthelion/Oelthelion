@@ -4,6 +4,7 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+    overflow-x: hidden;
 }
 h1 {
     font-size: 31px;
@@ -49,20 +50,20 @@ p:not(:hover) {
     transition: 2.4s;
     text-decoration: none;
 }
-a {
+h5 {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
     text-decoration: none;
 }
-a:hover {
+h5:hover {
     font-size: 22px; 
     font-family: 'JetBrains', monospace;
     color: #d99918;
     text-decoration: none;
     transition: 1s;
 }
-a:not(:hover) {
+h5:not(:hover) {
     font-size: 18px;
     font-family: 'JetBrains', monospace;
     color: #d999182d;
@@ -92,5 +93,41 @@ h4 {
     font-size: 21px;
     font-family: 'JetBrians', monospace;
     color:#c88c137e;
+}
+
+.footer {
+    box-sizing: border-box;
+    width: 1850px;
+    height: 300px;
+    position: absolute;
+    top: 1530px;
+    background-color: #783d0d94;
+}
+.list {
+    width: 1850px;
+    height: 200px;
+    display: inline-flex;
+    flex-direction: row;
+    /*background-color: #4a8e98; test things so not useful*/
+}
+.list div {
+    width: 100px;
+    column-gap: 300px;
+    padding-left: 300px;
+    padding-top: 33px;
+    /*background-color: #000000; test things so not useful*/
+}
+a {
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+    color: #1c0e01c1;
+    font-family: 'JetBrains Mono', monospace;
+
+}
+p2 {
+    font-family: 'JetBrians Mono', monospace;
+    font-size: 23px;
+    color: #98aeb0c1;
 }
 /*aaaaaad are you going to detect????? WHY WHONT IT DETECT*/

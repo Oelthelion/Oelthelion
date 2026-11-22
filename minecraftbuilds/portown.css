@@ -135,24 +135,27 @@ p {
     height: 300px;
     position: absolute;
     top: 1530px;
-    background-color: #121d1e63;
+    background-color: #121d1e94;
 }
 .list {
     width: 1850px;
     height: 200px;
-    display: inline-grid;
-    grid-template-rows: auto auto auto;
-    background-color: #4a8e98;
+    display: inline-flex;
+    flex-direction: row;
+    /*background-color: #4a8e98; test things so not useful*/
 }
 .list div {
-    margin: 20px;
-    padding: 10px;
-    column-gap: 200px;
+    width: 100px;
+    column-gap: 300px;
+    padding-left: 300px;
+    padding-top: 33px;
+    /*background-color: #000000; test things so not useful*/
 }
 a {
     font-size: 28px;
     text-decoration: none;
     text-align: center;
     color: #98aeb0c1;
+    font-family: 'JetBrains Mono', monospace;
 }
 /*why is this not working on github but works in the live?*/
