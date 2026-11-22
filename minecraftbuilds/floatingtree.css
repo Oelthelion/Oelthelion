@@ -4,7 +4,6 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
-    scroll-timeline-name: boxystuff;
     overflow-x: hidden;
 }
 h1 {
@@ -30,28 +29,32 @@ a {
     text-decoration: none;
     color: #658d4fa4;
 }
-/*
+main {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    scroll-timeline-name: boxystuff;
+}
+
 @keyframes boxy {
-    from {opactiy: 0; transform: translatex(0px);}
-    to {opactiy: 1; transform: translatex(40px);}
+    from {transform: translatex(0px)}
+    to {transform: translatex(40px)}
 }
-    not sure why this did not work
-    */
-.boxy:hover {
-    border-radius: 15px;
-    background-color: #6a8a43c3;
-    transition: 1s;
-}
+
 .boxy {
     height: 300px;
     width: 600px;
     background-color: #6a8a43b2;
     position: absolute;
     top: 1100px;
-    left: 40px;
     transition: 1s;
-    animation: boxy 1s ease-in-out;
+    animation: boxy 1s ease-in;
     animation-timeline: boxystuff;
+    z-index: 100;
 }
 .boxy:hover {
     border-radius: 15px;
