@@ -3,7 +3,7 @@ body {
     background-image: url(../images/fall.png);
     background-attachment: fixed;
     background-size: cover;
-
+    overflow-x: hidden;
 }
 h1 {
     font-family: 'JetBrains Mono', monospace;
@@ -13,20 +13,21 @@ h1 {
     left: 20px;
     top: 20px;
 }
-a {
-    text-decoration: none;
-    color: #a55e31;
-    font-size: 18px;    
-    font-family: 'JetBrains Mono', monospace;
-    position: absolute;
-    left: 30px;
-    top: 300px;
-}
+
 p {
     font-family: 'JetBrains Mono', monospace;
     font-size: 20px;
     color: #693106c0;
 
+}
+h2 {
+    text-decoration: none;
+    font-size: 28px;
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    color: #8840099f;
+    font-family: 'JetBrains Mono', monospace;
 }
 h3 {
     font-family: 'JetBrains Mono', monospace;

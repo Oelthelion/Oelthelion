@@ -24,11 +24,13 @@ h2 {
     color: #658d4fa4;
     position: relative;
     top: 400px;
+    z-index: 3;
 }
 a {
     text-decoration: none;
     color: #658d4fa4;
 }
+/*
 main {
     height: 100%;
     width: 100%;
@@ -38,13 +40,14 @@ main {
     top: 0px;
     left: 0px;
     scroll-timeline-name: boxystuff;
+    z-index: 0;
 }
 
 @keyframes boxy {
     from {transform: translatex(0px)}
     to {transform: translatex(40px)}
 }
-
+*/
 .boxy {
     height: 300px;
     width: 600px;
