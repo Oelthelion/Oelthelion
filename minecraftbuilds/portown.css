@@ -4,6 +4,9 @@ body {
     position: absolute;
     background-attachment: fixed;
     background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
 }   
 h1 {
     font-size: 38px;
@@ -95,6 +98,15 @@ p {
     position: absolute;
     top: 1200px;
     left: 700px;
+    transition: 1s;
+}
+.progress:hover {
+    background-image: url(../images/firststep.png);
+    background-size: cover;
+    height: 600px;
+    width: 960px;
+    transform: -100%, -100%;
+    z-index: 1px;
 }
 .progress2 {
     background-image: url(../images/abandonhome.png);
@@ -108,10 +120,19 @@ p {
 
 .footer {
     box-sizing: border-box;
-    width: 100%;
-    height: 200px;
-    background-color: #ac2525;
+    width: 1850px;
+    height: 300px;
     position: absolute;
-    top: 100%;
+    top: 1530px;
+    background-color: #121d1e63;
+}
+.list {
+    width: 1em;
+}
+a {
+    font-size: 21px;
+    text-decoration: none;
+    color: #98aeb0c1;
+    
 }
 /*why is this not working on github but works in the live?*/
