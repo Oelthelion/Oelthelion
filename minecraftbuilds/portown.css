@@ -138,12 +138,21 @@ p {
     background-color: #121d1e63;
 }
 .list {
-    width: 1em;
+    width: 1850px;
+    height: 200px;
+    display: inline-grid;
+    grid-template-rows: auto auto auto;
+    background-color: #4a8e98;
+}
+.list div {
+    margin: 20px;
+    padding: 10px;
+    column-gap: 200px;
 }
 a {
-    font-size: 21px;
+    font-size: 28px;
     text-decoration: none;
+    text-align: center;
     color: #98aeb0c1;
-    
 }
 /*why is this not working on github but works in the live?*/
