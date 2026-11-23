@@ -55,11 +55,11 @@ h3 {
     height: 300px;
     position: absolute;
     top: 1530px;
-    background-color: #6a8a43c3;
+    background-color: #b0a64ac3;
 }
 .list {
     width: 1850px;
-    height: 200px;
+    height: 250px;
     display: inline-flex;
     flex-direction: row;
     /*background-color: #4a8e98; test things so not useful*/

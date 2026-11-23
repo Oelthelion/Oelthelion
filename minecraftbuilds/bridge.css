@@ -112,10 +112,10 @@ h4 {
 .footer {
     box-sizing: border-box;
     width: 1850px;
-    height: 300px;
+    height: 250px;
     position: absolute;
     top: 1530px;
-    background-color: #6a8a43c3;
+    background-color: #43483dc3;
 }
 .list {
     width: 1850px;
@@ -135,7 +135,7 @@ a {
     font-size: 28px;
     text-decoration: none;
     text-align: center;
-    color: #ad4925dd;
+    color: #ad4925da;
     font-family: 'JetBrains Mono', monospace;
 
 }

@@ -73,7 +73,6 @@ img {
     border-style:  solid;
     display: inline-flex;
     image-rendering: optimizeQuality;
-    image-rendering: crisp-edges;
 }
 img:hover {
         width: 35%;

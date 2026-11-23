@@ -133,17 +133,34 @@ h1 {
     transition: 1s;
 }
 
+.Coldstuff {
+    width: 400px;
+    width: 35%;
+    height: 300px;
+    background-color: #2a717690;
+    position: absolute;
+    top: 1450px;
+    left: 0px;
+    transition: 1s;
+}
+.Coldstuff:hover {
+    border-radius: 8px;
+    background-color: #2a7176a5;
+    box-shadow: 4px 0px 4px #1321316d;
+    transition: 1s;
+}
+
 h6 {
     font-size: 19px;
     font-family: 'JetBrains Mono', monospace;
     color: #000000;
     position: absolute;
-    top: 1400px;
+    top: 1800px;
 }
 
 .linebars {
     width: 4px;
-    height: 1450px;
+    height: 1800px;
     background-color: #8d3535;
     position: absolute;
     top: -13px;
