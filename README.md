@@ -12,3 +12,5 @@ Sometimes things might break due to my updates. Not everything will be fully fun
 
 Features expansions?:
 I hope to add more features as I go and I plan on adding way more pages and adding personal projects as I create them. Although consistant updates might not happen I will try my best to do what I can with the time I have.
+
+![alt text](<Screenshot 2026-11-23 142048.png>)
